@@ -5,4 +5,9 @@
 
 # marbles:
 - essaie: 2
-- olive: 1
+- olive: 0
+
+# chips
+- olive: 80
+- Jetison333: 10
+- rebecca: 10
