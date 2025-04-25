@@ -13,7 +13,6 @@
     - persist across rounds
     - editable through submissions
   - the most recent player list is cycled in order without a schedule
-  - a "word" is a string of characters found in at least one dictionary that doesn't include any whitespace
 
 ## appendicks
   - appendicks persists across rounds (even though it's not specified)
