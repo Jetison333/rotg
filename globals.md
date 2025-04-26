@@ -9,7 +9,7 @@
 - umnikos: 0
 
 # chips
-- olive: 80
+- olive: 70
 - Jetison333: 10
 - rebecca: 10
-- umnikos: 200
+- umnikos: 210
