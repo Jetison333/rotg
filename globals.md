@@ -5,7 +5,8 @@
 
 # marbles:
 - essaie: 2
-- olive: 0
+- olive: 3
+- umnikos: 2
 
 # chips
 - olive: 80
