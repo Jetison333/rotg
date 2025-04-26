@@ -4,15 +4,13 @@ olive +3 -2 = 1
 2. **umni**
 3. **ME**
 
-essaie +2 -2 = 0
-3 **olive**
+essaie +2 -2 = 0  
+3 **olive**  
+2 **umnikos**  
 
-2 **umnikos**
-
-Umnikos +2 -3 = -1
-1 - **essaie**
-
-2 - **umnikos**
+Umnikos +2 -3 = -1  
+1 - **essaie**  
+2 - **umnikos**  
 
 # sumbissions
 1. essaie
@@ -20,15 +18,11 @@ Umnikos +2 -3 = -1
 3. olive
 
 # endorsements
-olive -> umnikos
-
-umnikos -> X
-
-essaie -> umnikos
+olive -> umnikos  
+umnikos -> X  
+essaie -> umnikos  
 
 ## scores
-umnikos - 3
-
-essaie - 1
-
-olive - 1
+umnikos - 3  
+essaie - 1  
+olive - 1  
