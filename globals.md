@@ -4,7 +4,7 @@
 - essaie - red square
 
 # marbles:
-- essaie: 2
+- essaie: 4
 - olive: 3
 - umnikos: 0
 
