@@ -1,5 +1,5 @@
 # hats:
-- goodclover - pan lid
+- goodclover - fez
 - rebecca - cat ears
 - essaie - red square
 
