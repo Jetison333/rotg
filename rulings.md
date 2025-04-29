@@ -2,6 +2,7 @@
   - all trackers reset between rounds unless otherwise specified
   - GA will not suggest any changes to the submissions and will merely point out interpretations and consequences
   - GA will not become a player
+  - A player is anyone who has made a submission before
   - if the GA doesn't notice your submission is invalid before stage 2 then it gets to slide
   
 # meow meower
