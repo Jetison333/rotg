@@ -3,7 +3,7 @@ Mexican Square Wave (1 marble) — Pass to another player. If passed through the
 
 Royal status (6 marbles) - You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
 
-Cursed Trinket (0 marbles)
+Cursed Trinket (-5 marbles)
 
 ![](img/Cursed-trinket.png)
 
