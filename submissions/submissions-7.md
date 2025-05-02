@@ -18,7 +18,7 @@ All cards have effects. Otherwise, cards is all they are.
 %%%%%%
 
 Then tytle the followyng rule "Jerry" et wryte it anywhere also:  
-%%%%%%
+%%%%%%  
 When any player begins to breathe out: Add all cards below to the Deck, then remove Jerry from the rules text.
 
 - The Fool: Create a new card and add it to the Discard.
