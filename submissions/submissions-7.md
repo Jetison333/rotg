@@ -5,7 +5,7 @@
 - olive
 
 # 1
-Tytle the followyng rule "George" et wryte it anywhere, a sectyon of its own:
+Tytle the followyng rule "George" et wryte it anywhere, a sectyon of its own:  
 %%%%%%
 ## Deck
 The Deck is a collection of cards without order. The Deck and its contents are to be remembered publicly forevermore. The Discard is a collection of cards with order. The Discard and its contents are to be remembered publicly forevermore.
@@ -14,10 +14,10 @@ At any time one may draw a uniformly random card from the Deck. When a card is d
 
 Effects are not optional. If an effect cannot be resolved, it is not.
 
-All cards have effects. Otherwise, cards is all they are.
+All cards have effects. Otherwise, cards is all they are.  
 %%%%%%
 
-Then tytle the followyng rule "Jerry" et wryte it anywhere also:
+Then tytle the followyng rule "Jerry" et wryte it anywhere also:  
 %%%%%%
 When any player begins to breathe out: Add all cards below to the Deck, then remove Jerry from the rules text.
 
@@ -43,7 +43,7 @@ When any player begins to breathe out: Add all cards below to the Deck, then rem
   - Example: Alice chooses to draw a card. The Game Administrator determines that she drew The Moon. They draw an additional card, The Lovers, and decide to tell Alice that she drew Strength instead. Alice tries to use Strength on Bob, but Bob gains 4 marbles instead.
 - The Sun: Gain 2 marbles.
 - Judgement: Play the Game Administrator in a game you both agree on without ties. Draw 3 cards and resolve only 1: the winner chooses which.
-- The World: Draw 2 additional cards.
+- The World: Draw 2 additional cards.  
 %%%%%
 
 # 2
