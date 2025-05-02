@@ -60,17 +60,7 @@ The Will and who is or was Willbound are not made public by the Game Adminstrato
 Players gain a point for correctly guessing which is the Willed submission, and it looses a point each time it is guessed correctly.  It gains points equal to the average correct guesses this round.  It is distinct from the player who was Willbound and their submission, if any.
 
 # 3
-## The Ghost of Guessing Past
-
-During the Guessing Phase, the Willbound must write a submission that follows the Will, a contrived requirement, left to them by their ancestor.  Then write a Will, and pick their descendant.
-
-If the Willbound does not do their duty, the Game Adminstrator chooses a next-of-kin to be Willbound next round.
-
-The Willed submission appears in addition to other submissions in the next Guessing Phase, and “*as willed.*” appears in the player list.
-
-The Will and who is or was Willbound are not made public by the Game Adminstrator, but the Willbound is not forbidden from telling.
- 
-Players gain a point for correctly guessing which is the Willed submission, and it looses a point each time it is guessed correctly.  It gains points equal to the average correct guesses this round.  It is distinct from the player who was Willbound and their submission, if any.
+every new rule applies retroactively, assuming everyone in past rounds would have acted in the same way with the rule as they did without.
 
 # 4
 This is a silly game. Participants of all roles must not stress too much about unforeseen consequences of their actions, for those are what make the game fun.
