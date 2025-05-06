@@ -41,6 +41,7 @@
   - "I" is ambiguous and is interpreted by the GA
     - in a one-party contract it usually means the signer and not the author
   - Players cannot sign contracts that cannot be defined
+  - if the GA has to decide between what two actions who happen "instantly" happen first, the GA can decide which action happens first. 
 
 # marbles
   - you get your new marbles during scoring *after* scores are done being calculated
