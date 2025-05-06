@@ -6,13 +6,25 @@
 
 # marbles:
 - essaie: 4
-- olive: 3
-- umnikos: 2
+- olive: 7
+- umnikos: 6
+- Jetison333: 5
+- Lyricly: 4
+- Makefile: 2
 
 # chips
 - Jetison333: 45
 - lyricly: 45
 - umnikos: 10
+
+# Itums
+## Jetison333
+Cursed Trinket
+
+![](img/Cursed-trinket.png)
+
+Upon the use of randomness, such as the rolling of dice, if some possibility would be the 'worst possible' result for you, the randomness is ignored and that possibility resolved by default.
+
 
 
 # Deck
