@@ -50,6 +50,7 @@ Upon the use of randomness, such as the rolling of dice, if some possibility wou
   - Example: Alice chooses to draw a card. The Game Administrator determines that she drew The Moon. They draw an additional card, The Lovers, and decide to tell Alice that she drew Strength instead. Alice tries to use Strength on Bob, but Bob gains 4 marbles instead.
 - The Sun: Gain 2 marbles.
 - Judgement: Play the Game Administrator in a game you both agree on without ties. Draw 3 cards and resolve only 1: the winner chooses which.
+- The World: Draw 2 additional cards.
 
 # Discard
 
