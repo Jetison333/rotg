@@ -55,6 +55,7 @@ Their Wagon is a persistent collection of itums and prices.
 The Swindler may optionally:
 - discard a chosen itum from the wagon
 - provide a description &c of an itum to stock into the wagon
+
 Then they sellout, choosing another player or the Game Adminstrator to become the Swindler.  Each player may be Swindler only once per round.
 
 The Game Adminstrator names prices for all wagon itums, and may change them at will.  A price must include some amount marbles or other money, and may include other things too.
