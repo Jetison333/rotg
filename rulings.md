@@ -51,3 +51,9 @@
 # hats
   - you can wear anything you can think of (hats aren't items)
   - you can't wear something someone else is wearing
+  
+# deck
+- drawing can be done in both public or private
+- Wheel of Fortune: a choice has to be from a reasonably-defined list of options for this to apply
+- Death: removes player's own title, not someone else's
+
