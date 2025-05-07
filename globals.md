@@ -7,15 +7,15 @@
 # marbles:
 - essaie: 4
 - olive: 7
-- umnikos: 6
-- Jetison333: 5
-- Lyricly: 4
+- umnikos: 4
+- Jetison333: 4
+- Lyricly: 3
 - Makefile: 2
 
 # chips
-- Jetison333: 45
+- Jetison333: 363
 - lyricly: 45
-- umnikos: 10
+- umnikos: 137
 
 # Itums
 ## Jetison333
