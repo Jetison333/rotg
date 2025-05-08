@@ -42,6 +42,8 @@
 - The World: Draw 2 additional cards.
 - Wheel of Fortune: You may draw up to 3 more cards.
 - The Coconut: Delicious. It does nothing.
+- The Tower: Your current or next stage 2, another participant learns which entry you wrote.
+- The Sun: Gain 2 marbles.
 
 # Discard
 
