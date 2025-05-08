@@ -7,16 +7,16 @@
 # marbles:
 - essaie: 4
 - olive: 10
-- umnikos: 3
-- Jetison333: 4
+- umnikos: 0
+- Jetison333: 0
 - Lyricly: 6
 - Makefile: 5
 - chirk: 4
-- *hyper-ring*: 16
+- *hyper-ring*: 23
 
 # chips
-- Jetison333: 363
-- umnikos: 1237
+- Jetison333: 763
+- umnikos: 1537
 
 
 # Deck
@@ -31,16 +31,14 @@
 - The Emperor: Guess in the next round in which you do not submit. If you win, enact target entry from this round.
 - The Lovers: Choose 2 people. If they both have at least one itum, each must give an itum of their choice to the other person.
 - The Fool: Create up to 3 new cards and add them to the wagon. When bought, the buyer immediately draws the card.
-- The Hanged Man: Destroy target card from the Deck or Discard.
 - The Star: Destroy target item you hold.
 - The High Priestess: Draw a card and see it, but do not resolve it. Place it back in the deck: it will be the next card drawn.
 - Strength: Target player draws a card.
-- Justice: Gain 5 marbles, if able. If unable, gain "Debt". Negate the number printed on this card."
+- Justice: Gain 5 marbles, if able. If unable, gain "Debt". Negate the number printed on this card.
 - The Magician: Draw a card reversed: its effect is inverted.
 - The Moon: Draw a card without knowing it. You do not know you drew The Moon. You think you drew a different card, but you did not.
   - Example: Alice chooses to draw a card. The Game Administrator determines that she drew The Moon. They draw an additional card, The Lovers, and decide to tell Alice that she drew Strength instead. Alice tries to use Strength on Bob, but Bob gains 4 marbles instead.
 - The World: Draw 2 additional cards.
-- Wheel of Fortune: You may draw up to 3 more cards.
 - The Coconut: Delicious. It does nothing.
 - The Tower: Your current or next stage 2, another participant learns which entry you wrote.
 - The Sun: Gain 2 marbles.
@@ -48,6 +46,7 @@
 # Discard
 
 - The Hierophant: You *may* make a wish to the Game Administator: if it comes true, remember that nothing is without its price.
+- The Hanged Man: Destroy target card from the Deck or Discard.
 
 # Destroyed (Museum)
 
@@ -56,4 +55,4 @@
   - Edit the game rules to specify any person may draw at most 1 card per round
   - Give umnikos the itum from the wagon called "Royal status" for free
   - Destroy "The Coconut"
-
+- Wheel of Fortune: You may draw up to 3 more cards.
