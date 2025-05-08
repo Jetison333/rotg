@@ -165,6 +165,8 @@ At any time one may draw a uniformly random card from the Deck. When a card is d
 
 Effects are not optional. If an effect cannot be resolved, it is not.
 
+Any person may choose that they are only able to draw at most one card per round.
+
 # Appendagealism  
   
 The Appendage is a section of the rules.  

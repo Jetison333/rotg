@@ -18,15 +18,6 @@
 - Jetison333: 363
 - umnikos: 1237
 
-# Itums
-## Jetison333
-Cursed Trinket
-
-![](img/Cursed-trinket.png)
-
-Upon the use of randomness, such as the rolling of dice, if some possibility would be the 'worst possible' result for you, the randomness is ignored and that possibility resolved by default.
-
-
 
 # Deck
 
@@ -38,17 +29,19 @@ Upon the use of randomness, such as the rolling of dice, if some possibility wou
 - The Chariot: Move target card from the Discard to the Deck.
 - Death: Relinquish target titloid (Game Administrator/Appendicks, any Tit(le), etc). If necessary, nominate a successor.
 - The Emperor: Guess in the next round in which you do not submit. If you win, enact target entry from this round.
-- The Lovers: Target player (not you) gains 4 marbles.
-- The Fool: Create a new card and add it to the Discard.
+- The Lovers: Choose 2 people. If they both have at least one itum, each must give an itum of their choice to the other person.
+- The Fool: Create up to 3 new cards and add them to the wagon. When bought, the buyer immediately draws the card.
 - The Hanged Man: Destroy target card from the Deck or Discard.
 - The Star: Destroy target item you hold.
 - The High Priestess: Draw a card and see it, but do not resolve it. Place it back in the deck: it will be the next card drawn.
 - Strength: Target player draws a card.
-- Justice: Gain -5 marbles, then negate the number printed on this card.
+- Justice: Gain 5 marbles, if able. If unable, gain "Debt". Negate the number printed on this card."
 - The Magician: Draw a card reversed: its effect is inverted.
 - The Moon: Draw a card without knowing it. You do not know you drew The Moon. You think you drew a different card, but you did not.
   - Example: Alice chooses to draw a card. The Game Administrator determines that she drew The Moon. They draw an additional card, The Lovers, and decide to tell Alice that she drew Strength instead. Alice tries to use Strength on Bob, but Bob gains 4 marbles instead.
 - The World: Draw 2 additional cards.
+- Wheel of Fortune: You may draw up to 3 more cards.
+- The Coconut: Delicious. It does nothing.
 
 # Discard
 
