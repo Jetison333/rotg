@@ -10,7 +10,10 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
 
-Pyramid scheme — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for
+
+## *currently bidding.*
+
+Pyramid scheme (1 marble) — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for
 
 
 ## Jetison333
