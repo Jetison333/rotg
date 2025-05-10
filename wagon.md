@@ -10,6 +10,8 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
 
+Genie in a lamp (1 marble) — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
+
 
 ## *currently bidding.*
 
