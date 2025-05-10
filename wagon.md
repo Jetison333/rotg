@@ -1,7 +1,7 @@
 # Items
 Mexican Square Wave (1 marble) — Pass to another player. If passed through the entire player list in a round, the last to receive gains a marble, and chooses a new type of wave for this to be named. 
 
-Bowl of Sherbert (5 marbles)
+Bowl of Sherbert (5 marbles) —
 
 when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
 1. Alice's stamina is replenished
@@ -10,9 +10,11 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
 
+Pyramid scheme — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for
+
 
 ## Jetison333
-Cursed Trinket
+Cursed Trinket —
 
 ![](img/Cursed-trinket.png)
 
@@ -21,5 +23,4 @@ Upon the use of randomness, such as the rolling of dice, if some possibility wou
 
 ## umnikos
 
-Royal status - You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
-
+Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
