@@ -10,7 +10,7 @@
 - umnikos: 0
 - Jetison333: 0
 - Lyricly: 6
-- Makefile: 5
+- Makefile: 4
 - chirk: 4
 - *hyper-ring*: 23
 

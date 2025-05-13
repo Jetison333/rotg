@@ -17,9 +17,12 @@ Genie in a lamp (1 marble) — a genie got stuck in this lamp somehow. we tried 
 
 The Egg (1 marble) — 🥚 it's just an egg
 
-## *currently bidding.*
+Biden Blast (3 marbles) — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
 
-Pyramid scheme (1 marble) — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for
+Pyramid scheme (2 marbles) — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for.  *Last sold to Makefile for 1 marble.*
+
+## *currently bidding.*
+Nout.
 
 ## Owned
 
