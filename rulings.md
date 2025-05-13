@@ -4,6 +4,7 @@
   - GA will not become a player
   - A player is anyone who has made a submission before
   - if the GA doesn't notice your submission is invalid before stage 2 then it gets to slide
+  - Roles, titles & submissions are not players nor can be used as references to one where naming a player is asked for unless the link is one-to-one and publicly known.
   
 # meow meower
   - meows reset each round
@@ -56,4 +57,7 @@
 - drawing can be done in both public or private
 - Wheel of Fortune: a choice has to be from a reasonably-defined list of options for this to apply
 - Death: removes player's own title, not someone else's
+
+# Willbound
+- Whoever authored the Willed Submission does not count as a player that round due to this authorship.  Also, "The Willbound", "as willed", and the Willed Submission do not count as players (see above).
 
