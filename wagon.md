@@ -2,8 +2,6 @@
 
 ## *Wagon*
 
-Mexican Square Wave (1 marble) — Pass to another player. If passed through the entire player list in a round, the last to receive gains a marble, and chooses a new type of wave for this to be named. 
-
 Bowl of Sherbert (5 marbles) —  
 when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
 1. Alice's stamina is replenished
@@ -36,6 +34,10 @@ Genie in a lamp (1 marble) — a genie got stuck in this lamp somehow. we tried 
 Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
 
 ### umnikos
+
+Mexican Square Wave — Pass to another player. If passed through the entire player list in a round, the last to receive gains a marble, and chooses a new type of wave for this to be named.
+
+## Destroyed (Museum)
 
 Cursed Trinket —
 
