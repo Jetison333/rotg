@@ -29,7 +29,6 @@
 - The Chariot: Move target card from the Discard to the Deck.
 - Death: Relinquish target titloid (Game Administrator/Appendicks, any Tit(le), etc). If necessary, nominate a successor.
 - The Emperor: Guess in the next round in which you do not submit. If you win, enact target entry from this round.
-- The Lovers: Choose 2 people. If they both have at least one itum, each must give an itum of their choice to the other person.
 - The Fool: Create up to 3 new cards and add them to the wagon. When bought, the buyer immediately draws the card.
 - The Star: Destroy target item you hold.
 - The High Priestess: Draw a card and see it, but do not resolve it. Place it back in the deck: it will be the next card drawn.
@@ -47,6 +46,7 @@
 
 - The Hierophant: You *may* make a wish to the Game Administator: if it comes true, remember that nothing is without its price.
 - The Hanged Man: Destroy target card from the Deck or Discard.
+- The Lovers: Choose 2 people. If they both have at least one itum, each must give an itum of their choice to the other person.
 
 # Destroyed (Museum)
 
