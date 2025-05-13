@@ -23,6 +23,15 @@ When Algremichal Blue enters your inventory and when you consume it, the GA roll
 * 1 | You earn twice X marbles.
 * 2 - 6 | A random player currently eligible for bidding on itums receives a copy of this itum, except its name is equal to the name of this itum concatenated with " (1)", and its X value is one less than this itum's.
 
+### Cards
+Buying these acts as drawing them: causing their description to happen and for them to then go in the discard.
+
+Card: Bowser Revolution (4 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
+
+Card: Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
+
+Card: The Wombat (4 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
+
 ## *currently bidding.*
 
 Genie in a lamp (1 marble) — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
