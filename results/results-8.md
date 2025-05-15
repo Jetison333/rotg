@@ -1,26 +1,26 @@
 ## guesses
 1. The Right Honourable, The Lord, jetison — 5 correct, guessed 3 times.
-   1. **me**
-   2. **essaie**
-   3. **as willed**
-   4. **rebecca**
-   5. **umnikos**
+   - 1 - **me**
+   - 2 - **essaie**
+   - 3 - **as willed**
+   - 4 - **rebecca**
+   - 5 - **umnikos**
 2. essaie — 5 correct, guessed 3 times.
-   1. **jetison**
-   2. **essaie**
-   3. **as willed**
-   4. **rebecca**
-   5. **umnikos**
+   - 1 - **jetison**
+   - 2 - **essaie**
+   - 3 - **as willed**
+   - 4 - **rebecca**
+   - 5 - **umnikos**
 3. *as willed.* — avg. 4.25 correct, guessed 4 times.
 4. rebecca — 5 correct, guessed 3 times.
-   1. **jetison**
-   2. **essaie**
-   3. **as willed**
-   4. **me**
-   5. **umnikos**
+   - 1 - **jetison**
+   - 2 - **essaie**
+   - 3 - **as willed**
+   - 4 - **me**
+   - 5 - **umnikos**
 5. umnikos — 2 correct, guesed 4 times.
-   3. **as willed**
-   5. **myself**
+   - 3 - **as willed**
+   - 5 - **myself**
 
 ## note
 
@@ -38,10 +38,10 @@ Winner:  Lord jetison!
 
 ## endorsements  
 
-The Right Honourable, The Lord, jetison → umnikos
-essaie → *nil*
-rebecca → umnikos
-umnikos → *nil*
+The Right Honourable, The Lord, jetison → umnikos  
+essaie → *nil*  
+rebecca → umnikos  
+umnikos → *nil*  
 
 Winner:  Umnikos with 2!
 
