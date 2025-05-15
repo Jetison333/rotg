@@ -8,15 +8,15 @@
 - essaie: 7
 - olive: 10
 - umnikos: 0
-- Jetison333: 3
+- Jetison333: 10
 - Lyricly: 6
 - Makefile: 4
 - chirk: 4
 - rebecca: 3
-- *hyper-ring*: 35
+- *hyper-ring*: 28
 
 ## chips
-- Jetison333: 763
+- Jetison333: 63
 - umnikos: 2737
 
 
@@ -51,7 +51,6 @@
 
 ## limbo
 
-- The Hierophant: You *may* make a wish to the Game Administator: if it comes true, remember that nothing is without its price.
 
 ## Destroyed (Museum)
 
@@ -61,3 +60,5 @@
   - Give umnikos the itum from the wagon called "Royal status" for free
   - Destroy "The Coconut"
 - Wheel of Fortune: You may draw up to 3 more cards.
+- The Hierophant: You *may* make a wish to the Game Administator: if it comes true, remember that nothing is without its price.
+

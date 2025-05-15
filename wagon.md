@@ -46,6 +46,8 @@ Royal status — You are now a baron. The Game Adminstrator must refer to you wi
 
 Mexican Square Wave — Pass to another player. If passed through the entire player list in a round, the last to receive gains a marble, and chooses a new type of wave for this to be named.
 
+Croissant — it's edible and delicious
+
 ## Destroyed (Museum)
 
 Cursed Trinket —
