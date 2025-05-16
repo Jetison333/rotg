@@ -6,6 +6,9 @@ The Game Administrator has the final word on all issues regarding the interpreta
 
 ++/∘++/ = ++/∘++/∗
 
+# Winning
+Winning is the achievement of complete control over the game. A record of the number of times each gamer has won so far is to be kept forevermore. This record is not to be changed under any circumstances. Submissions that attempt to change or nullify this section of the rules are invalid.
+
 ## Stage 1
 During the duration of stage 1, any person on the server can make a "submission" by sending it to the Game Adminstrator through a direct message. 
 From this point on, they are considered a "player" of the round. A player can only have 1 submission.
@@ -44,7 +47,6 @@ After the scoring stage ends the round is over, and a new one may begin.
 Each player will now have a number of marbles that carry on into future rounds. This amount is public information. Players will start with zero marbles, and will earn one marble for each correct guess they make during the guessing phase. If a player tries to do an action that would result in some player having fewer than zero marbles, that action fails, with that player being told "you have lost your marbles". Further, each player gets their number of marbles divided by 10 and then rounded down added to their score during the scoring phase. The following actions can be made using marbles:
 1. Rolling a marble - gives one of your marbles to a specified player
 2. Shooting a marble - uses one of your marbles to remove one marble from a specified player
-4. 100 marbles - win the game
 
 ## The Swindler's Wagon
 
@@ -92,7 +94,7 @@ Itums have a name and description.  Optionally they can have a little drawing to
 
 The holder of an itum is affected by it's description.  Interpretation of what each itum actually bloody does is up the the Game Adminstrator.
 
-Itums cannot override explicit rules, however are free to play with the rules and alter the game.
+Itums cannot override explicit rules, do not have the ability to change the rules text, however are free to play in the gaps & unclarities.
 
 
 ## Insert Tits Here
@@ -157,15 +159,6 @@ The Willed submission appears in addition to other submissions in the next Guess
 The Will and who is or was Willbound are not made public by the Game Adminstrator, but the Willbound is not forbidden from telling.
  
 Players gain a point for correctly guessing which is the Willed submission, and it looses a point each time it is guessed correctly.  It gains points equal to the average correct guesses this round.  It is distinct from the player who was Willbound and their submission, if any.
-
-## Deck
-The Deck is a collection of cards without order. The Deck and its contents are to be remembered publicly forevermore. The Discard is a collection of cards with order. The Discard and its contents are to be remembered publicly forevermore.
-
-At any time one may draw a uniformly random card from the Deck. When a card is drawn, its effect is triggered by the one who drew it, and it is subsequently placed on the Discard. When one draws from an empty Deck, the names and properties of the Deck and Discard are first swapped. If the Deck is still empty, they draw The End, which removes George from the rules text.
-
-Effects are not optional. If an effect cannot be resolved, it is not.
-
-Any person may choose that they are only able to draw at most one card per round.
 
 # Appendagealism  
   
