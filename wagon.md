@@ -34,7 +34,7 @@ Card: The Wombat (4 marbles) — Following the next guessing phase in which you 
 
 ## *currently bidding.*
 
-Genie in a lamp (1 marble) — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
+*nil*
 
 ## Owned
 
@@ -47,6 +47,8 @@ Royal status — You are now a baron. The Game Adminstrator must refer to you wi
 Mexican Square Wave — Pass to another player. If passed through the entire player list in a round, the last to receive gains a marble, and chooses a new type of wave for this to be named.
 
 Croissant — it's edible and delicious
+
+Genie in a lamp — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
 
 ## Destroyed (Museum)
 

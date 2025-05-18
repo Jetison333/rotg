@@ -13,11 +13,11 @@
 - Makefile: 4
 - chirk: 4
 - rebecca: 8
-- *hyper-ring*: 28
+- *hyper-ring*: 27
 
 ## chips
 - Jetison333: 63
-- umnikos: 2737
+- umnikos: 2637
 
 ## win count:
 1. umnikos: 1
