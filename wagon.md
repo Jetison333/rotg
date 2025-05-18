@@ -2,7 +2,7 @@
 
 ## *Wagon*
 
-Bowl of Sherbert (5 marbles) —  
+Bowl of Sherbert (2 marbles) —  
 when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
 1. Alice's stamina is replenished
 2. Alice is given a means of securely and privately communicating with Bob
@@ -10,9 +10,9 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
 
-The Egg (1 marble) — 🥚 it's just an egg
+The Egg (0 marbles) — 🥚 it's just an egg
 
-Biden Blast (3 marbles) — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
+Biden Blast (1 marble) — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
 
 Pyramid scheme (2 marbles) — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for.  *Last sold to Makefile for 1 marble.*
 
@@ -23,14 +23,14 @@ When Algremichal Blue enters your inventory and when you consume it, the GA roll
 * 1 | You earn twice X marbles.
 * 2 - 6 | A random player currently eligible for bidding on itums receives a copy of this itum, except its name is equal to the name of this itum concatenated with " (1)", and its X value is one less than this itum's.
 
-### Cards
-Buying these acts as drawing them: causing their description to happen and for them to then go in the discard.
-
-Card: Bowser Revolution (4 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
+Card: Bowser Revolution (3 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
 
 Card: Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
 
-Card: The Wombat (4 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
+Card: The Wombat (3 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
+
+Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
+
 
 ## *currently bidding.*
 
