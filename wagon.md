@@ -12,8 +12,6 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 
 The Egg (0 marbles) — 🥚 it's just an egg
 
-Biden Blast (1 marble) — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
-
 Pyramid scheme (2 marbles) — When this itum is bought it immediately returns to the wagon with its price increased by one marble. The next time its bought the previous owner gains the same number of marbles it sold for.  *Last sold to Makefile for 1 marble.*
 
 Algremichal Blue (X = 10) (5 marbles) —  
@@ -31,6 +29,7 @@ Card: The Wombat (3 marbles) — Following the next guessing phase in which you 
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
 
+Fake ID (2 marbles) — Force another gamer to take one action besides signing a contract.  This itum is destroyed after use.
 
 ## *currently bidding.*
 
@@ -52,10 +51,10 @@ Genie in a lamp — a genie got stuck in this lamp somehow. we tried to get it o
 
 ## Destroyed (Museum)
 
-Cursed Trinket —
-
-![](img/Cursed-trinket.png)
-
+Cursed Trinket —  
+![](img/Cursed-trinket.png)  
 Upon the use of randomness, such as the rolling of dice, if some possibility would be the 'worst possible' result for you, the randomness is ignored and that possibility resolved by default.
+
+Biden Blast — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
 
 
