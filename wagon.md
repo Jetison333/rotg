@@ -29,7 +29,18 @@ Card: The Wombat (3 marbles) — Following the next guessing phase in which you 
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
 
-Fake ID (2 marbles) — Force another gamer to take one action besides signing a contract.  This itum is destroyed after use.
+Shipment Container (8 marbles) — destroy this itum and add the following itums to the wagon, where all proceeds from the sale of the itums go to you:
+    soul jar: a beautifully ornamented glass jar packed full with over 10,000 souls. probably. it might just be an empty jar 
+    magic crystal ball: once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
+    hatter: you may swap hats with a player of your choosing once per round
+    estrogen: gain tit(le)s
+    SPEED: all of your instant actions happen with priority
+    anger demon: at any time you may destroy all of your other itums (except for this one)
+    inner peace: all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time 
+    anarchy manifesto: fuck the rules. submission restrictions do not apply to you
+    con artist: you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once. 
+    bff pendant: you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
+    big egg: big blue hard-shelled egg. it might eventually hatch
 
 ## *currently bidding.*
 
@@ -40,6 +51,8 @@ Fake ID (2 marbles) — Force another gamer to take one action besides signing a
 ### Jetison333
 
 Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
+
+Fake ID — Force another gamer to take one action besides signing a contract.  This itum is destroyed after use.
 
 ### umnikos
 

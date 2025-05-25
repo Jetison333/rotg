@@ -8,7 +8,7 @@
 - essaie: 12
 - olive: 10
 - umnikos: 0
-- Jetison333: 15
+- Jetison333: 5
 - Lyricly: 6
 - Makefile: 4
 - chirk: 4
