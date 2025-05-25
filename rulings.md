@@ -43,6 +43,9 @@
   - in a one-party contract it usually means the signer and not the author
 - Players cannot sign contracts that cannot be defined
 - if the GA has to decide between what two actions who happen "instantly" happen first, the GA can decide which action happens first. 
+- an identical copy of a contract can be signed by the same person as the other
+  - could make a new contract with different wording and the same effect so there's little argument against
+  - to forbid it would mean two people independently writing the same contract would hit weirdness weird as they'd kinda merge
 
 ## Marbles
 - you get your new marbles during scoring *after* scores are done being calculated
