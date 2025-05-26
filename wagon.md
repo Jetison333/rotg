@@ -29,6 +29,8 @@ Card: The Wombat (3 marbles) — Following the next guessing phase in which you 
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
 
+## *currently bidding.*
+
 Shipment Container (8 marbles) — destroy this itum and add the following itums to the wagon, where all proceeds from the sale of the itums go to you:
     soul jar: a beautifully ornamented glass jar packed full with over 10,000 souls. probably. it might just be an empty jar 
     magic crystal ball: once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
@@ -41,10 +43,6 @@ Shipment Container (8 marbles) — destroy this itum and add the following itums
     con artist: you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once. 
     bff pendant: you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
     big egg: big blue hard-shelled egg. it might eventually hatch
-
-## *currently bidding.*
-
-*nil*
 
 ## Owned
 
@@ -69,5 +67,4 @@ Cursed Trinket —
 Upon the use of randomness, such as the rolling of dice, if some possibility would be the 'worst possible' result for you, the randomness is ignored and that possibility resolved by default.
 
 Biden Blast — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
-
 

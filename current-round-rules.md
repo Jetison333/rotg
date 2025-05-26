@@ -244,5 +244,4 @@ Interpretation (but not enforcement) of the Appendage is up to the Appendicks, w
 
 ### Appendage
 
-when the impostor is REQUIRED to submit, they leak their entry's first syllable publicly. This impostor is the second kinkmaster to president in one election. Elections erect loudly when you squeeze
-
+when the impostor is REQUIRED to submit, they leak their entry's first syllable publicly. This impostor is the second kinkmaster to president in one election. Elections erect loudly when you squeeze your hat (cost: your innate *hnngnm* marble blaster).
