@@ -5,10 +5,10 @@
 - umnikos - 1,000 marbles
 
 ## marbles:
-- essaie: 12
+- essaie: 13
 - olive: 10
 - umnikos: 0
-- Jetison333: 5
+- Jetison333: 4
 - Lyricly: 6
 - Makefile: 4
 - chirk: 4

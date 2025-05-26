@@ -137,6 +137,11 @@ The holder of an itum is affected by it's description.  Interpretation of what e
 Itums cannot override explicit rules, do not have the ability to change the rules text, however are free to play in the gaps & unclarities.
 
 
+## The farmers market
+
+The farmers market is a place where a person can sell their carrots, potatos, onions, and other itums to other people.  The market is open inbetween rounds and during the submission phase.  The person selling the itum may set the price and method of sale, for example first come first serve or an auction.  Once the transaction has been confirmed, the price and itums are transferred as appropriate.
+
+
 ## The Swindler's Wagon
 
 The Swindler is an esteemed role, an important member of the community who supplies itums to those most in need.
@@ -157,7 +162,11 @@ If who's the Swindler is unclear, or the they have not taken an action for half 
 
 When a person moves to buy an itum, the itum is taken from the Wagon and bidding is started.  Players from the past two rounds may bid privately.  All bids must have at least the counts in the asking price or higher, and may not include things not in the price.  Bids are rejected if they cannot be proven payable.
 
-When bidding ends, the person with the highest bid gets the itum, and they pay the second highest bid.  Neither the Game Adminstrator nor Swindler receive the payment.
+When bidding ends, the person with the highest bid gets the itum, and they pay the second highest bid.
+
+paument for itums goes to the vurrent game avocado
+
+bids need not be provable papayable but if you cant pay the second highest amount biddd you get kilt
 
 ### mideas
 
