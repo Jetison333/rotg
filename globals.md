@@ -8,16 +8,16 @@
 - essaie: 15
 - olive: 10
 - umnikos: 3
-- Jetison333: 7
+- Jetison333: 6
 - Lyricly: 6
 - Makefile: 4
 - chirk: 4
 - rebecca: 8
-- *hyper-ring*: 29
+- *hyper-ring*: 30
 
 ## chips
-- Jetison333: 63
-- umnikos: 2837
+- Jetison333: 95
+- umnikos: 2905
 
 ## win count:
 1. umnikos: 1
