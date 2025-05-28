@@ -39,8 +39,6 @@ hatter (1 marbles) — you may swap hats with a player of your choosing once per
 
 estrogen (5 marbles) — gain tit(le)s
 
-SPEED (10 marbles) — all of your instant actions happen with priority
-
 anger demon (2 marbles) — at any time you may destroy all of your other itums (except for this one)
 
 inner peace (2 marbles) — all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time
@@ -68,6 +66,8 @@ Mexican Square Wave — Pass to another player. If passed through the entire pla
 Croissant — it's edible and delicious
 
 Genie in a lamp — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
+
+SPEED — all of your instant actions happen with priority
 
 ## Destroyed (Museum)
 
