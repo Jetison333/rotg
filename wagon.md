@@ -2,7 +2,7 @@
 
 ## *Wagon*
 
-Bowl of Sherbert (2 marbles) —  
+Bowl of Sherbert (3 marbles) —  
 when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
 1. Alice's stamina is replenished
 2. Alice is given a means of securely and privately communicating with Bob
@@ -21,28 +21,37 @@ When Algremichal Blue enters your inventory and when you consume it, the GA roll
 * 1 | You earn twice X marbles.
 * 2 - 6 | A random player currently eligible for bidding on itums receives a copy of this itum, except its name is equal to the name of this itum concatenated with " (1)", and its X value is one less than this itum's.
 
-Card: Bowser Revolution (3 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
+Bowser Revolution (2 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
 
-Card: Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
+Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
 
-Card: The Wombat (3 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
+The Wombat (2 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
 
-## *currently bidding.*
+*All proceeds from the sale of these items go to umnikos:*
 
-Shipment Container (8 marbles) — destroy this itum and add the following itums to the wagon, where all proceeds from the sale of the itums go to you:
-    soul jar: a beautifully ornamented glass jar packed full with over 10,000 souls. probably. it might just be an empty jar 
-    magic crystal ball: once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
-    hatter: you may swap hats with a player of your choosing once per round
-    estrogen: gain tit(le)s
-    SPEED: all of your instant actions happen with priority
-    anger demon: at any time you may destroy all of your other itums (except for this one)
-    inner peace: all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time 
-    anarchy manifesto: fuck the rules. submission restrictions do not apply to you
-    con artist: you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once. 
-    bff pendant: you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
-    big egg: big blue hard-shelled egg. it might eventually hatch
+soul jar  (0 marbles) — a beautifully ornamented glass jar packed full with over 10,000 souls. probably. it might just be an empty jar
+
+magic crystal ball (2 marbles) — once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
+
+hatter (1 marbles) — you may swap hats with a player of your choosing once per round
+
+estrogen (5 marbles) — gain tit(le)s
+
+SPEED (10 marbles) — all of your instant actions happen with priority
+
+anger demon (2 marbles) — at any time you may destroy all of your other itums (except for this one)
+
+inner peace (2 marbles) — all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time
+
+anarchy manifesto (2 marbles) — fuck the rules. submission restrictions do not apply to you
+
+con artist (2 marbles) — you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once.
+
+bff pendant (0 marbles) — you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
+
+big egg (0 marbles) — big blue hard-shelled egg. it might eventually hatch
 
 ## Owned
 
