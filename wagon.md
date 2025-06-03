@@ -43,8 +43,6 @@ anger demon (2 marbles) — at any time you may destroy all of your other itums 
 
 inner peace (2 marbles) — all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time
 
-anarchy manifesto (2 marbles) — fuck the rules. submission restrictions do not apply to you
-
 con artist (2 marbles) — you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once.
 
 bff pendant (0 marbles) — you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
@@ -68,6 +66,8 @@ Croissant — it's edible and delicious
 Genie in a lamp — a genie got stuck in this lamp somehow. we tried to get it out by rubbing the lamp but it didn't work
 
 SPEED — all of your instant actions happen with priority
+
+anarchy manifesto — fuck the rules. submission restrictions do not apply to you
 
 ## Destroyed (Museum)
 
