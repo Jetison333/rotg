@@ -49,6 +49,10 @@ bff pendant (0 marbles) — you may break this itum in half. upon doing so, give
 
 big egg (0 marbles) — big blue hard-shelled egg. it might eventually hatch
 
+Nest (2 marbles) —  
+Put an egg in here to hatch it into a friend of species of your choice, keeping adjectives & details that apply to the egg.  Every "edible" thing you feed them they produce a marble.  You may put the nest on your head.
+Upon obtaining, your name is prefixed to the item, a copy of the item without your name is added to the wagon, and this sentance is removed from the description.
+
 ## Owned
 
 ### Jetison333

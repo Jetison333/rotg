@@ -1,10 +1,18 @@
-## hats:
+## Roles of the Rules:
+- Game Adminstrator:  olive
+- Appendicks: lyric
+- Game Avocado: essaie
+
+## Tit(le)s:
+*none*
+
+## Hats:
 - goodclover - mario flying hat thing
 - rebecca - cat ears
 - essaie - red square
 - umnikos - 1,000 marbles
 
-## marbles:
+## Marbles:
 - essaie: 15
 - olive: 10
 - umnikos: 0
@@ -15,9 +23,9 @@
 - rebecca: 8
 - *hyper-ring*: 25
 
-## chips
+## Chips:
 - Jetison333: 95
 - umnikos: 2405
 
-## win count:
+## Win Count:
 1. umnikos: 1
