@@ -21,7 +21,7 @@ Disagreement is encouraged.
   - Persist across rounds.
   - Editable through submissions.
 - The most recent public player list (round results) is cycled in order without a schedule.
-- Punctuation may be before of after your word.
+- Punctuation may be before or after your word.
 - Words & punctuation:
   - Paragraph Breaks are puncutation.
   - Starting or ending a title is puncutation.
@@ -70,7 +70,7 @@ Disagreement is encouraged.
 - you can wear anything you can think of (hats aren't items)
 - you can't wear something someone else is wearing
   - unless the hat has multiple head holes
-- hats are just words or pictures or whatever, the meaning of those words or pictures or whatever has no bearing over the game unless stated otherwise (e.g. a “10,000 marbles” hat does not cost nor grant nor is equivalent to a player having 10,000 marbles)
+- hats are just words or pictures or whatever, the meaning of those words or pictures or whatever has no bearing over the game unless stated otherwise by a non-hat (e.g. a “10,000 marbles” hat does not cost nor grant nor is equivalent to a player having 10,000 marbles)
 
 ## Willbound
 - Whoever authored the Willed Submission does not count as a player that round due to this authorship.  Also, "The Willbound", "as willed", and the Willed Submission do not count as players (see above).
