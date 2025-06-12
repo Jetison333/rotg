@@ -7,7 +7,7 @@
 *none*
 
 ## Hats:
-- goodclover - mario flying hat thing
+- goodclover - R Otg-a-hedron
 - rebecca - cat ears
 - essaie - red square
 - umnikos - 1,000 marbles
@@ -28,4 +28,5 @@
 - umnikos: 2405
 
 ## Win Count:
-1. umnikos: 1
+- umnikos: 1
+
