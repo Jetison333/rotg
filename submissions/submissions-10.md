@@ -37,6 +37,7 @@ _add the following to the rules, formatted sensibly:_
 > The Treasurer may freely edit text contained in curly brackets in the above paragraph, as long as the replacement text:
 > - does not have any side effects,
 > - does not itself contain any curly brackets.
+> 
 > Such changes must be announced publicly when they occur.
 
 _remove the following sentences from the rules:_
