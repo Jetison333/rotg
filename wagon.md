@@ -1,6 +1,6 @@
 # Items
 
-## *Wagon*
+## *Currently Bidding*
 
 Bowl of Sherbert (3 marbles) —  
 when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
@@ -9,6 +9,9 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 3. Alice is given +2 points during R, which she may distribute among herself, other players, or other submissions, as she sees fit
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
+
+
+## *Wagon*
 
 The Egg (0 marbles) — 🥚 it's just an egg
 
@@ -53,11 +56,10 @@ Nest (2 marbles) —
 Put an egg in here to hatch it into a friend of species of your choice, keeping adjectives & details that apply to the egg.  Every "edible" thing you feed them they produce a marble.  You may put the nest on your head.
 Upon obtaining, your name is prefixed to the item, a copy of the item without your name is added to the wagon, and this sentance is removed from the description.
 
+
 ## Owned
 
 ### Jetison333
-
-Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
 
 Fake ID — Force another gamer to take one action besides signing a contract.  This itum is destroyed after use.
 
@@ -72,6 +74,11 @@ Genie in a lamp — a genie got stuck in this lamp somehow. we tried to get it o
 SPEED — all of your instant actions happen with priority
 
 anarchy manifesto — fuck the rules. submission restrictions do not apply to you
+
+## rebecca
+
+Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
+
 
 ## Destroyed (Museum)
 

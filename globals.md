@@ -14,13 +14,13 @@
 
 ## Marbles:
 - essaie: 15
-- olive: 10
+- olive: 9
 - umnikos: 0
-- Jetison333: 6
+- Jetison333: 11
 - Lyricly: 6
 - Makefile: 4
-- chirk: 4
-- rebecca: 8
+- chirk: 5
+- rebecca: 3
 - *hyper-ring*: 25
 
 ## Chips:
