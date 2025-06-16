@@ -13,14 +13,14 @@
 - umnikos - 1,000 marbles
 
 ## Marbles:
-- essaie: 15
+- essaie: 18
 - olive: 9
-- umnikos: 0
-- Jetison333: 11
+- umnikos: 3
+- Jetison333: 15
 - Lyricly: 6
-- Makefile: 4
+- Makefile: 5
 - chirk: 5
-- rebecca: 3
+- rebecca: 6
 - *hyper-ring*: 25
 
 ## Chips:
