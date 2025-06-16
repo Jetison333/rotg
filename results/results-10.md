@@ -50,16 +50,13 @@ __TODO: Grant the marbles for correct guesses.__
 
 ## endorsements
 
-```dot
-digraph round10endorsements {
-	rebecca [label="rebecca\n3"]
-	essaie [label="essaie\n1"]
-	makefile [label="makefile\n1"]
-	makefile -> rebecca [label="+1"]
-	jetison [label="jetison\n1"]
-	jetison -> rebecca [label="+1"]
-	umnikos [label="umnikos\n1"]
-}
+```mermaid
+graph LR
+	reb{Rebecca<br/>3}
+	ess(Essaie<br/>1)
+	mak(Makefile<br/>1) -- +1 --> reb
+	jet(Jetison<br/>1) -- +1 --> reb
+	umn(Umnikos<br/>1)
 ```
 
 Winner:  rebecca with 3!
