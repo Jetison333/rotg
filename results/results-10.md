@@ -46,8 +46,6 @@
 
 Winner:  umnikos!
 
-__TODO: Grant the marbles for correct guesses.__
-
 ## endorsements
 
 ```mermaid
