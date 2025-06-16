@@ -2,9 +2,14 @@
 Private contracts may also exist that are not here.
 The Game Adminstrator is aware of all contracts.*
 
-## subnomic
-Original: https://discord.com/channels/1320411924323893318/1346807889712386089/1358148074127753488
-Current: https://discord.com/channels/1320411924323893318/1346807889712386089/1372352241981456486
+## subnomic (https://discord.com/channels/1320411924323893318/1346807889712386089/1358148074127753488)
+> 000. this contract contains the laws of the conic subnomic. every party to this contract is bound by these laws.
+> 001. all parties MUST abide by the laws of this contract. the GA must enforce this
+> 002. any party to this contract may at any time make a 'proposal', which is a written-down set of proposed changes to this contract. this proposal must be posted in a place visible to all parties to this contract.
+> 003. at any time, any party to this contract may 'approve' such a proposal. if at any time any unenacted proposal recieves a number of such approvals exceeding half the present number of parties to this contract, then it is enacted, and any changes to this contract it describes are made. the updated text of this contract is binding, and supercedes any previous version of this contract.
+> 004. this contract lasts forever
+> 005. This contract cannot be destroyed, edited, or affected in any way whatsoever by any member of this contract, if they are compelled to do so by demands outside this contract.  Punishment for breaking this clause is to un-do whatever caused it to be broken and to re-sign this contract as it was before, if un-signed.
+> 006. no party to this contract may ever grant any wishes
 - rebecca
 - olive
 - jet (assuming at least 5 people)
@@ -15,6 +20,7 @@ Current: https://discord.com/channels/1320411924323893318/1346807889712386089/13
 > 2. Withdraw a marble - Takes one marble out of hyperspace and gives that marble to that party, and subtracts 100 chips from that parties balance. If that party does not have a minimum of 100 chips, this action fails.
 > 3. Play a game - Any number of parties can play a game. All parties playing a game must agree to the following: The rules to the game and the method the game will be played, a number of chips to bet which is removed from each party's balance, and a payout structure which determines how many chips each player receives at the end of the game. This payout cannot be greater that the total of the bets each player put in. All parties playing the game must follow the agreed upon rules
 > 4. Give a chip - Subtracts one chip from the party taking the action's balance, and adds one chip to another party to this contract. If the party doing the action does not have a minimum of 1 chip this action fails. 
+>
 > Hyperspace is a mechanism to allow a decentralized bank. Every party that is rolled a marble considered to be in hyperspace must immediately roll it to the next party of the contract. When a marble is deposited, that marble is considered to be in hyperspace, and the depositor must immediately roll that marble to another party of the contract. When a marble is withdrawn, then one marble that is currently in hyperspace is picked, and the next party to be rolled that marble must roll it to the party doing the withdrawal, and that marble is no longer considered to be in hyperspace. 
 > If every party to this contract agrees, then this contract may be modified. If a party has zero chips, then that party may remove their signature from this contract. This contract lasts until every party has removed their signature 
 - jet
