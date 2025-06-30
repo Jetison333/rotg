@@ -7,10 +7,11 @@
 *none*
 
 ## Hats:
-- goodclover - R Otg-a-hedron
+- goodclover - a silly non thing
 - rebecca - cat ears
 - essaie - red square
 - umnikos - 1,000 marbles
+- jetison - dodecahedron
 
 ## Marbles:
 - essaie: 18

@@ -66,3 +66,22 @@ The Game Adminstrator is aware of all contracts.*
 > whenever drawing, if the moon is not in the deck nor the discard, I say to myself "warning: moon". this contract lasts forever and can be unsigned at any time
 - umnikos
 
+## umni controls essaie (round 10) (https://discord.com/channels/1320411924323893318/1346807889712386089/1384267508487426159)
+> umnikos controls me for the rest of this round
+- essaie
+
+## olive half of jet append (https://discord.com/channels/1320411924323893318/1346807889712386089/1384272511893766176)
+> olive controls every other word Jetison adds to the appendage for round 10
+- jetison
+
+## regenesis (https://discord.com/channels/1320411924323893318/1346807889712386089/1387846471398719512)
+> if every player of the current round and the current GA has signed this contract, and https://discord.com/channels/1320411924323893318/1346807889712386089/1387846173150285865 is not edited, then they must all work together to add this sentence to the appendage:
+> the GA must replace the entire rulebook with the rulebook attached to discord message <https://discord.com/channels/1320411924323893318/1346807889712386089/1387846173150285865>
+- essaie
+- umnikos
+- rebecca
+- jetison
+- makefile
+- olive
+
+
