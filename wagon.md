@@ -2,16 +2,11 @@
 
 ## *Currently Bidding*
 
-Bowl of Sherbert (3 marbles) —  
-when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
-1. Alice's stamina is replenished
-2. Alice is given a means of securely and privately communicating with Bob
-3. Alice is given +2 points during R, which she may distribute among herself, other players, or other submissions, as she sees fit
-4. Q is taken from Alice and given to some random non-Alice player who participated in R
-5. Q may not be used again until after the end of R
-
+*nil*
 
 ## *Wagon*
+
+Tax Rebate (1 marble) — you don't have to pay any taxes during this round
 
 The Egg (0 marbles) — 🥚 it's just an egg
 
@@ -79,6 +74,13 @@ anarchy manifesto — fuck the rules. submission restrictions do not apply to yo
 
 Royal status — You are now a baron. The Game Adminstrator must refer to you with the proper style of address at all times.
 
+Bowl of Sherbert (3 marbles) —  
+when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, then the following effects happen:
+1. Alice's stamina is replenished
+2. Alice is given a means of securely and privately communicating with Bob
+3. Alice is given +2 points during R, which she may distribute among herself, other players, or other submissions, as she sees fit
+4. Q is taken from Alice and given to some random non-Alice player who participated in R
+5. Q may not be used again until after the end of R
 
 ## Destroyed (Museum)
 

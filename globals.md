@@ -1,7 +1,7 @@
 ## Roles of the Rules:
 - Game Adminstrator:  olive
-- Appendicks: lyric
-- Game Avocado: essaie
+- President:  *seat not filled*
+- Treasurer:  *seat not filled*
 
 ## Tit(le)s:
 *none*
@@ -21,7 +21,7 @@
 - Lyricly: 6
 - Makefile: 5
 - chirk: 5
-- rebecca: 6
+- rebecca: 1
 - *hyper-ring*: 25
 
 ## Chips:

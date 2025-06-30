@@ -1,7 +1,5 @@
 # Rules:
 
-Once this sentence exists in this document, rebecca is given 1 marble and this sentence is deleted.
-
 ## Defintions
 
 Throughout the document the following terms have the corresponding definitions:

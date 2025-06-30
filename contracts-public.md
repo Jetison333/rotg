@@ -38,7 +38,7 @@ The Game Adminstrator is aware of all contracts.*
 - olive
 
 ## chips→marbles for scoring (https://discord.com/channels/1320411924323893318/1346807889712386089/1369829515601383525)
-> I sign the following contract: The following contract has no expiration date. Right before the part of scoring in which marble count matters is to be performed, all signers convert as many of their chips as possible into marbles, Right after that part of scoring, they each convert those marbles back into chips. All signers may unsign this contract at any time.
+> The following contract has no expiration date. Right before the part of scoring in which marble count matters is to be performed, all signers convert as many of their chips as possible into marbles, Right after that part of scoring, they each convert those marbles back into chips. All signers may unsign this contract at any time.
 - umnikos (×2)
 
 ## fish & chips (https://discord.com/channels/1320411924323893318/1346807889712386089/1382718779489779834)
@@ -46,29 +46,9 @@ The Game Adminstrator is aware of all contracts.*
 - rebecca
 - essaie
 
-## rebecca noguess (round 10) (https://discord.com/channels/1320411924323893318/1346807889712386089/1382743939445948637)
-> this contract lasts for the current round.
-> right before the end of stage 2, all parties to this contract besides rebecca will tell rebecca which submission is theirs. 
-> using this information, rebecca will avoid correctly guessing the submissions of any other party to this contract.
-. in return, all other parties to this contract endorse rebecca during stage 3.
-- rebecca
-- jetison
-
-## umnikos noguess (round 10) (https://discord.com/channels/1320411924323893318/1346807889712386089/1382776897431142471)
-> this contract lasts for the current round.
-> right before the end of stage 2, all parties to this contract besides umnikos will tell umnikos which submission is theirs. 
-> using this information, umnikos will avoid correctly guessing the submissions of any other party to this contract.
-> in return, all other parties to this contract endorse umnikos during stage 3.
-- umnikos
-- *(voided: jetison)*
-
 ## warning: moon (https://discord.com/channels/1320411924323893318/1346807889712386089/1383953890549960754)
 > whenever drawing, if the moon is not in the deck nor the discard, I say to myself "warning: moon". this contract lasts forever and can be unsigned at any time
 - umnikos
-
-## umni controls essaie (round 10) (https://discord.com/channels/1320411924323893318/1346807889712386089/1384267508487426159)
-> umnikos controls me for the rest of this round
-- essaie
 
 ## olive half of jet append (https://discord.com/channels/1320411924323893318/1346807889712386089/1384272511893766176)
 > olive controls every other word Jetison adds to the appendage for round 10
