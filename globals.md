@@ -21,12 +21,14 @@
 - Lyricly: 6
 - Makefile: 5
 - chirk: 5
-- rebecca: 1
-- *hyper-ring*: 25
+- rebecca: 0
+- *hyper-ring*: 26
 
 ## Chips:
-- Jetison333: 95
+- Jetison333: 97
 - umnikos: 2405
+- rebecca: 98
+- Pyramid [æ]: 1
 
 ## Win Count:
 - umnikos: 1

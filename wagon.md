@@ -27,6 +27,10 @@ The Wombat (2 marbles) — Following the next guessing phase in which you partic
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
 
+Nest (2 marbles) —  
+Put an egg in here to hatch it into a friend of species of your choice, keeping adjectives & details that apply to the egg.  Every "edible" thing you feed them they produce a marble.  You may put the nest on your head.
+Upon obtaining, your name is prefixed to the item, a copy of the item without your name is added to the wagon, and this sentance is removed from the description.
+
 *All proceeds from the sale of these items go to umnikos:*
 
 soul jar  (0 marbles) — a beautifully ornamented glass jar packed full with over 10,000 souls. probably. it might just be an empty jar
@@ -35,7 +39,7 @@ magic crystal ball (2 marbles) — once per round you may ask the GA a vague que
 
 hatter (1 marbles) — you may swap hats with a player of your choosing once per round
 
-estrogen (5 marbles) — gain tit(le)s
+estrogen (3 marbles) — gain tit(le)s
 
 anger demon (2 marbles) — at any time you may destroy all of your other itums (except for this one)
 
@@ -46,11 +50,6 @@ con artist (2 marbles) — you're a master of swindling. while you are the swind
 bff pendant (0 marbles) — you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
 
 big egg (0 marbles) — big blue hard-shelled egg. it might eventually hatch
-
-Nest (2 marbles) —  
-Put an egg in here to hatch it into a friend of species of your choice, keeping adjectives & details that apply to the egg.  Every "edible" thing you feed them they produce a marble.  You may put the nest on your head.
-Upon obtaining, your name is prefixed to the item, a copy of the item without your name is added to the wagon, and this sentance is removed from the description.
-
 
 ## Owned
 

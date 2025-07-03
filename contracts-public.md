@@ -2,7 +2,8 @@
 Private contracts may also exist that are not here.
 The Game Adminstrator is aware of all contracts.*
 
-## subnomic (https://discord.com/channels/1320411924323893318/1346807889712386089/1358148074127753488)
+## Conic Subnomic
+https://discord.com/channels/1320411924323893318/1346807889712386089/1358148074127753488
 > 000. this contract contains the laws of the conic subnomic. every party to this contract is bound by these laws.
 > 001. all parties MUST abide by the laws of this contract. the GA must enforce this
 > 002. any party to this contract may at any time make a 'proposal', which is a written-down set of proposed changes to this contract. this proposal must be posted in a place visible to all parties to this contract.
@@ -14,7 +15,8 @@ The Game Adminstrator is aware of all contracts.*
 - olive
 - jet (assuming at least 5 people)
 
-## poker chips (https://discord.com/channels/1320411924323893318/1346807889712386089/1358561004446814268)
+## Hyperspace & Chip Betting
+https://discord.com/channels/1320411924323893318/1346807889712386089/1358561004446814268
 > Every party to this contract will have a value associated with them. This value is equal to 1/100 of a marble, and will be called a chip in the rest of the contract. The following actions may be taken that will effect a parties chip balance. 
 > 1. Deposit a marble - Places one of a parties marble into hyperspace (defined later in the contract) and adds 100 chips to that parties balance. If that party does not have a marble they can roll, this action fails.
 > 2. Withdraw a marble - Takes one marble out of hyperspace and gives that marble to that party, and subtracts 100 chips from that parties balance. If that party does not have a minimum of 100 chips, this action fails.
@@ -28,40 +30,33 @@ The Game Adminstrator is aware of all contracts.*
 - rebecca
 - lyricly
 - umnikos
+- Pyramid [æ]
 
-## no hyperspace shooty (https://discord.com/channels/1320411924323893318/1346807889712386089/1369006634831056988)
+## No shooting at hyperspace
+https://discord.com/channels/1320411924323893318/1346807889712386089/1369006634831056988
 > If shooting a marble at someone would cause that person to be unable to continue rolling a marble that is considered to be in hyperspace, then all parties of this contract will not shoot that marble. This contract lasts as long as the chips contract lasts.
 - jet
 
-## infinite marble glitch (https://discord.com/channels/1320411924323893318/1346807889712386089/1369014821424463942)
+## Promise to collaborate on an infinite marble glitch
+https://discord.com/channels/1320411924323893318/1346807889712386089/1369014821424463942
 > I will roll whoever finds an infinite marble glitch as many marbles as feasible for me to gain under said glitch.
 - olive
 
-## chips→marbles for scoring (https://discord.com/channels/1320411924323893318/1346807889712386089/1369829515601383525)
-> The following contract has no expiration date. Right before the part of scoring in which marble count matters is to be performed, all signers convert as many of their chips as possible into marbles, Right after that part of scoring, they each convert those marbles back into chips. All signers may unsign this contract at any time.
-- umnikos (×2)
-
-## fish & chips (https://discord.com/channels/1320411924323893318/1346807889712386089/1382718779489779834)
+## Fish & Chips
+https://discord.com/channels/1320411924323893318/1346807889712386089/1382718779489779834
 > everyone who signs this contract has a Fish count and a Chips count, which they can set to any number at any time
 - rebecca
 - essaie
 
-## warning: moon (https://discord.com/channels/1320411924323893318/1346807889712386089/1383953890549960754)
+## Warning: Moon
+https://discord.com/channels/1320411924323893318/1346807889712386089/1383953890549960754
 > whenever drawing, if the moon is not in the deck nor the discard, I say to myself "warning: moon". this contract lasts forever and can be unsigned at any time
 - umnikos
 
-## olive half of jet append (https://discord.com/channels/1320411924323893318/1346807889712386089/1384272511893766176)
-> olive controls every other word Jetison adds to the appendage for round 10
-- jetison
+## marbles→chips
+https://discord.com/channels/1320411924323893318/1346807889712386089/1389661381028085901
+> any time I've had a non-zero amount of marbles for more than 1 second, I convert all of my marbles to chips
 
-## regenesis (https://discord.com/channels/1320411924323893318/1346807889712386089/1387846471398719512)
-> if every player of the current round and the current GA has signed this contract, and https://discord.com/channels/1320411924323893318/1346807889712386089/1387846173150285865 is not edited, then they must all work together to add this sentence to the appendage:
-> the GA must replace the entire rulebook with the rulebook attached to discord message <https://discord.com/channels/1320411924323893318/1346807889712386089/1387846173150285865>
-- essaie
-- umnikos
-- rebecca
-- jetison
-- makefile
-- olive
+
 
 

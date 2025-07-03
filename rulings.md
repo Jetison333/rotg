@@ -3,7 +3,8 @@ This documents the GA's intepretations of the rules to encourage consistency bet
 As stated by:
 > The Game Adminstrator has the final word on all issues regarding the interpretation of the rules text and on issues for which the rules text does not specify a resolution.
 
-Disagreement is encouraged.
+Disagreement is encouraged!
+If you have a good use-case or argument against an interpretation here, do suggest.
 
 ## general
 - Roles, titles & submissions are not players nor can be used as references to one where naming a player is asked for unless the link is one-to-one and publicly known.
@@ -45,6 +46,11 @@ Disagreement is encouraged.
   - could make a new contract with different wording and the same effect so there's little argument against
   - to forbid it would mean two people independently writing the same contract would hit weirdness weird as they'd kinda merge
 
+- If a contract lacks a title, the GA will give it a simple, intuitive one, based on it's origin & purpose.
+
 ## Wagon
 - If a bidder wins but has lost marbles since they bid, so can no longer pay, it is treated as if they never bid.  Recurse.
+
+## Daemons
+- Daemons are publicly known, however their contracts aren't necessarily.  As daemons are players, to be able to interact with them properly, they must be knowable.
 
