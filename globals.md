@@ -4,7 +4,8 @@
 - Treasurer:  *seat not filled*
 
 ## Tit(le)s:
-*none*
+- Satan:  rebecca
+  - Daemons section
 
 ## Hats:
 - goodclover - a silly non thing
