@@ -56,7 +56,9 @@ https://discord.com/channels/1320411924323893318/1346807889712386089/13839538905
 ## marbles→chips
 https://discord.com/channels/1320411924323893318/1346807889712386089/1389661381028085901
 > any time I've had a non-zero amount of marbles for more than 1 second, I convert all of my marbles to chips
+- umnikos
 
-
-
+## Jetison's Presidential Contract
+*(expires once Jetison is no longer President)*
+> I will find a treasurer that will keep the taxes at 0
 

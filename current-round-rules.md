@@ -9,6 +9,7 @@ Throughout the document the following terms have the corresponding definitions:
 
 "Somebody", "nobody" and "everybody" are shorthand for "some gamer", "no gamer" and "every gamer" respectively.
 
+
 ## Game Adminstrator
 
 The Game Adminstrator is the gamer running the game and interpreting the rules text. The Game Adminstrator has the final word on all issues regarding the interpretation of the rules text and on issues for which the rules text does not specify a resolution.
@@ -17,11 +18,14 @@ The Game Adminstrator may, at any point, appoint another gamer to become the new
 
 The Game Adminstrator may NOT become a player, nor appoint a player as the new Game Adminstrator.
 
+
 ## Silly
 
 This is a silly game. Gamers must not stress too much about unforeseen consequences of their actions, for those are what make the game fun.
 
+
 ## Rounds
+
 The game is played as a sequence of rounds. There can be at most one round going on at any given time.
 Each round consists of multiple stages. Each stage takes place in numerical order and after the previous one has ended. 
 
@@ -29,6 +33,7 @@ Unless otherwise specified in the rules, game state other than the rulebook's te
 
 The durations of stages, happenings of undefined length, and the time gaps between rounds are entirely determined by the Game Adminstrator.
 The Game Adminstrator may issue time extensions without the need to specify a reason for the extension.
+
 
 ## Stages
 
@@ -57,6 +62,8 @@ The first time you guess, you learn how many entries you correctly guessed. (You
 
 During stage 2 of any round, any player may spend 10 marbles (which disappear) and in return get 1 added to their score during the scoring stage of that round only.
 
+During stage 2, players may challenge the Game Adminstrator to a game of tak.  If they win their marble gain during stage 3 is doubled, if they draw or lose their marble gain during stage 3 is 0.
+
 ### Stage 3 (Scoring stage)
 
 After stage 2, each player receives 1 point for each player they guessed, and loses 1 point for each player that guessed them.
@@ -68,12 +75,7 @@ While enacting the submissions, the Game Adminstrator is free to edit the rulebo
 
 After stage 3 ends the round is over, and a new one may begin.
 
-### Limbo
-
-Between rounds, the game is still ongoing unless the Game Adminstrator announces otherwise. Game actions may still be taken and the rules still apply.
-
-
-## Endorsements
+### Endorsements
 
 At the end of each round, after guesses are finalized and scores are calculated, but before identities or guesses or scores are announced or any new rules are enacted, each player is given (in private) the choice to either Endorse any individual player, or not.
 
@@ -84,6 +86,10 @@ If the rules define a role of "President", then replace 1 in the above equation 
 Then, the player(s) with the greatest Endorsement Scores have their rule submission enacted, the same as if they had won through guessing.
 
 The information about who Endorsed whom is revealed by the Game Adminstrator along with everything else at the end of the round.
+
+### Limbo
+
+Between rounds, the game is still ongoing unless the Game Adminstrator announces otherwise. Game actions may still be taken and the rules still apply.
 
 
 ## Contract law
@@ -102,14 +108,27 @@ Contracts persist across rounds. A contract may specify a period of time for whi
 
 Contracts may specify circumstances under which parties may unsign that contract.  If not, then it is not possible to unsign the contract while it lasts.
 
-Signed contracts may not be altered, however obligating to sign another contract is permitted.
-
 Contracts may be made in public or private.  The Game Adminstrator must list other parties to a signed contract on request, and signatures to public contracts are always available.
 
 All contracts must have a unique title.
 
+
+## Daemons
+
+Any gamer may summon a daemon by specifying the terms of a contract.
+
+The daemon is then bound by that contract, and exists as long as the contract remains in force.
+
+A daemon may participate in the game as if it were a gamer, but may not become a player (and thus may not submit submissions in rounds).
+In particular daemons may own marbles and sign other contracts.
+
+It is acceptable to refer to daemons using any string that matches the regex `^d[aeiou]+mon$`.
+
+
 ## Admitdiot Bugger-Up
+
 If it is discovered the outcome of the game is undecidable, the Game Adminstrator must repent for permitting such circumstances to occur, and then arbitration is entered.
+
 
 ## Marbles
 
@@ -130,7 +149,7 @@ Itums have a name and description. Optionally they can have a little drawing too
 
 The holder of an itum is affected by its description. Interpretation of what each itum actually does is up the the Game Adminstrator.
 
-Itums have the ability to make changes to game state but not change the rules text. They may also grant specific exemptions from the rules.
+Itums have the ability to make changes to game state but not change the rules text. If an itum's description conflicts with the rules, the rules take precedence. In particular, if an itum grants an exemption from the rules and the rules don't account for that, then that itum does nothing.
 
 ### The Swindler's Wagon
 
@@ -141,6 +160,8 @@ Their Wagon is a persistent collection of itums and prices.
 The Swindler may optionally:
 - discard a chosen itum from the wagon
 - provide a description and so on of an itum to stock into the wagon
+- recall or change the submission that was submitted by the previous Swindler to the next round if there is one
+- submit a rule to the next round. This rule is only allowed to activate when the Itum's description would, and may specify any departures from the text of the rules the Itum is allowed to make. The Swindler then plays as a player in the round, under the title "*as swindled*". The Swindler is considered a distinct player in the round, and whoever is the current Swindler may play as their real identity at the same time; when doing so, they must clarify to the GA the identity they are using for any game action.
 
 Then they sellout, choosing another gamer or the Game Adminstrator to become the Swindler. Each gamer may be Swindler only once per round.
 
@@ -159,16 +180,6 @@ When bidding ends, the gamer with the highest bid gets the itum, and they pay th
 
 The farmers market is a place where a gamer can sell their carrots, potatos, onions, and other itums to other gamers. The market is open during limbo and the submission phase. The gamer selling the itum may set the price and method of sale, for example first come first serve or an auction. Once the transaction has been confirmed, the price and itums are transferred as appropriate.
 
-## Daemons
-
-Any gamer may summon a daemon by specifying the terms of a contract.
-
-The daemon is then bound by that contract, and exists as long as the contract remains in force.
-
-A daemon may participate in the game as if it were a gamer, but may not become a player (and thus may not submit submissions in rounds).
-In particular daemons may own marbles and sign other contracts.
-
-It is acceptable to refer to daemons using any string that matches the regex `^d[aeiou]+mon$`.
 
 ## Winning
 
@@ -177,6 +188,7 @@ Winning is the achievement of complete control over the game.
 A record of the number of times each gamer has won so far is to be kept forevermore. This record is not to be changed under any circumstances.
 
 Submissions that attempt to change or nullify this section of the rules are invalid.
+
 
 ## Insert Tits Here
 
@@ -194,7 +206,9 @@ A Tit(le) grants the holder the Game Adminstrator's abilities from a selection o
 Gamers may meow, bark, or produce other such cute animal sounds. These actions will be collectively referred to as “meowing”.
 Meowing is classified as a game action.
 
+
 ## The Map
+
 The map is an 8x8 grid of square tiles.
 An object is any entity with a defined position on this grid. The map should be made available as a visualization showing the positions of every object.
 
@@ -204,6 +218,7 @@ The Game Adminstrator may veto contracts whose obligations relate to movement, i
 
 
 ## Buildings
+
 Buildings are objects with a description. 
 
 Buildings may or may not be able to move. If they can, their description must specify how; in any case, their initial position must be described.
@@ -213,7 +228,7 @@ Buildings may confer special abilities not covered by the rules, similar to an i
 Any gamer may build a building by giving a description to the Game Adminstrator, who in turn specifies a build cost in marbles. If the gamer is able and willing, they may pay this cost, in which case the building gets built.
 
 
-## presidential selections
+## Presidential Selections
 
 A presidential selection takes place every odd numbered round, during which the following happens:
 
@@ -226,7 +241,8 @@ As soon as reasonable after the selection, the President (new or reselected) mus
 For each office, the President may not choose themselves or anybody who doesn't want to be chosen.
 A government officer may resign at any point, in which case the President must choose a replacement, subject to the same rule above.
 
-## the treasurer
+
+## The Treasurer
 
 The Treasurer is a government office. 
 The Treasure is a marble balance, separate from that of any gamer, which the Treasurer may roll marbles from as if it were their own.
@@ -245,7 +261,14 @@ The Treasurer may freely edit text contained in curly brackets in the above para
 
 Such changes must be announced publicly when they occur.
 
-## hats
+
+## The Herstorian
+
+The Herstorian is a government office. The Herstorian is responsible for documenting interesting things that happen during their term, and compiling this account into a document called the Herstory, which is publicly available. The Herstorian may also, at their discretion, compile introductory resources, summaries of the rules, etc, for the benefit of new or returning players.
+
+
+## Hats
+
 Hats are a badge of honor. Hats come with a name and optionally a picture. The President can give any number of hats to any number of players they wish to reward for their actions. Gamers can refuse a hat that the President is trying to give them. Any gamer may give one of their hats to another gamer as an action if that gamer's willing to accept it.
 
 Gamers can choose which of their hats they're currently wearing. A gamer can wear at most one hat a time.
