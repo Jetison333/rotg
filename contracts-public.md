@@ -58,7 +58,8 @@ https://discord.com/channels/1320411924323893318/1346807889712386089/13896613810
 > any time I've had a non-zero amount of marbles for more than 1 second, I convert all of my marbles to chips
 - umnikos
 
-## Jetison's Presidential Contract
-*(expires once Jetison is no longer President)*
-> I will find a treasurer that will keep the taxes at 0
+## Rebecca's Presidential Contract
+*(expires once Rebecca is no longer President)*
+> If I am elected president, I will give every player this round 1 (one) marble.
+
 

@@ -1,6 +1,6 @@
 ## Roles of the Rules:
 - Game Adminstrator:  olive
-- President:  Jetison
+- President:  rebecca
 - Treasurer:  *seat not filled*
 - Herstorian:  *seat not filled*
 

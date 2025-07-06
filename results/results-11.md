@@ -49,11 +49,10 @@ Winner:  rebecca!
    - jetison
 3. makefile — 0
    - rebecca
-4. rebecca — 2
+4. rebecca — 3
    - rebecca
 
-Tie between jetison and rebecca.
-Both have equal marbles, tie broken by rebecca conceding.
+Selected President:  rebecca!
 
-Selected President:  jetison!
+*(Note: Originally there was a miscount where jetison and rebecca did a tie with both 2 votes.)*
 
