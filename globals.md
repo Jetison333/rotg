@@ -1,8 +1,8 @@
 ## Roles of the Rules:
-- Game Adminstrator:  olive
+- Game Adminstrator:  Jetison333
 - President:  rebecca
-- Treasurer:  *seat not filled*
-- Herstorian:  *seat not filled*
+- Treasurer:  umnikos
+- Herstorian:  essaie
 
 ## Tit(le)s:
 - Satan:  rebecca
