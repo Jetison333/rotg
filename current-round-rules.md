@@ -250,9 +250,9 @@ Marbles may be rolled to the Treasure, but not shot at it.
 
 When a gamer is taxed n marbles, it means that n of their marbles are forcibly rolled to the Treasure.
 A gamer may not take an action if they can't pay all taxes associated with that action.
-At the beginning of each round, each gamer is taxed the smallest of {whatever you think is fair} and half their marble count rounded down.
-When a gamer pays for an item at the farmers market, they are taxed {whatever you think is fair}.
-When a gamer pays for an item at the swindler's wagon, they are taxed {whatever you think is fair}.
+At the beginning of each round, each gamer is taxed the smallest of {whatever you think is fair no lying allowed} and half their marble count rounded down.
+When a gamer pays for an item at the farmers market, they are taxed {whatever you think is fair no lying allowed}.
+When a gamer pays for an item at the swindler's wagon, they are taxed {whatever you think is fair no lying allowed}.
 
 The Treasurer may freely edit text contained in curly brackets in the above paragraph, as long as the replacement text:
 - resolves to some number of marbles
