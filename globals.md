@@ -23,17 +23,17 @@
 ## Marbles:
 - essaie: 18
 - olive: 9
-- umnikos: 0
+- umnikos: 2
 - Jetison333: 4
 - Lyricly: 6
 - Makefile: 9
 - chirk: 5
 - rebecca: 1
-- *hyper-ring*: 26
-
+- *hyper-ring*: 24
+  
 ## Chips:
 - Jetison333: 1597
-- umnikos: 3105
+- umnikos: 2905
 - rebecca: 98
 - Pyramid [æ]: 1
 
