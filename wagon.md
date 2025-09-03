@@ -37,8 +37,6 @@ soul jar  (0 marbles) — a beautifully ornamented glass jar packed full with ov
 
 magic crystal ball (2 marbles) — once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
 
-hatter (1 marbles) — you may swap hats with a player of your choosing once per round
-
 estrogen (3 marbles) — gain tit(le)s
 
 anger demon (2 marbles) — at any time you may destroy all of your other itums (except for this one)
@@ -89,3 +87,4 @@ Upon the use of randomness, such as the rolling of dice, if some possibility wou
 
 Biden Blast — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
 
+hatter (1 marbles) — you may swap hats with a player of your choosing once per round
