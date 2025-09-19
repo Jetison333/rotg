@@ -37,10 +37,6 @@ https://discord.com/channels/1320411924323893318/1346807889712386089/13690066348
 > If shooting a marble at someone would cause that person to be unable to continue rolling a marble that is considered to be in hyperspace, then all parties of this contract will not shoot that marble. This contract lasts as long as the chips contract lasts.
 - jet
 
-## Promise to collaborate on an infinite marble glitch
-https://discord.com/channels/1320411924323893318/1346807889712386089/1369014821424463942
-> I will roll whoever finds an infinite marble glitch as many marbles as feasible for me to gain under said glitch.
-- olive
 
 ## Fish & Chips
 https://discord.com/channels/1320411924323893318/1346807889712386089/1382718779489779834
@@ -51,11 +47,6 @@ https://discord.com/channels/1320411924323893318/1346807889712386089/13827187794
 ## Warning: Moon
 https://discord.com/channels/1320411924323893318/1346807889712386089/1383953890549960754
 > whenever drawing, if the moon is not in the deck nor the discard, I say to myself "warning: moon". this contract lasts forever and can be unsigned at any time
-- umnikos
-
-## marbles→chips
-https://discord.com/channels/1320411924323893318/1346807889712386089/1389661381028085901
-> any time I've had a non-zero amount of marbles for more than 1 second, I convert all of my marbles to chips
 - umnikos
 
 ## Rebecca's Presidential Contract

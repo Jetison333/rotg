@@ -22,3 +22,6 @@ This damon's name is Butler. Butler signs whatever contracts that Jetison333 tel
 
 ## Two wolves and a lamb deciding what to eat for lunch." bound by this
 when rebecca sends a message containing the word 'cowabunga', sign that message as a contract
+
+## Susan
+does whatever rebecca says

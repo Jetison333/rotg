@@ -3,6 +3,7 @@
 - President:  rebecca
 - Treasurer:  umnikos
 - Herstorian:  essaie
+- Attorney Specifc: Susan
 
 ## Tit(le)s:
 - Satan:  rebecca
@@ -10,7 +11,7 @@
 
 ## The oct
 - Game admin: Jetison333
-- Attorney Specifc: 
+- Attorney Specifc: Susan
 - demon: Two wolves and a lamb deciding what to eat for lunch
 - Meow Meower Subordinate:
 
