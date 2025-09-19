@@ -22,3 +22,5 @@ Winner: Umnikos!
 olive -> olive  
 makefile -> makefile  
 rebecca -> rebecca  
+
+All sumbisions are passed
