@@ -8,6 +8,12 @@
 - Satan:  rebecca
   - Daemons section
 
+## The oct
+- Game admin: Jetison333
+- Attorney Specifc: 
+- demon: Two wolves and a lamb deciding what to eat for lunch
+- Meow Meower Subordinate:
+
 ## Hats:
 - goodclover
   - a silly non thing
@@ -22,13 +28,13 @@
 
 ## Marbles:
 - essaie: 18
-- olive: 9
-- umnikos: 2
+- olive: 11
+- umnikos: 5
 - Jetison333: 4
 - Lyricly: 6
-- Makefile: 9
+- Makefile: 11
 - chirk: 5
-- rebecca: 1
+- rebecca: 3
 - *hyper-ring*: 24
   
 ## Chips:

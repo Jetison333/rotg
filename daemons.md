@@ -19,3 +19,6 @@ The pyramid continously checks the top of the FIFO queues, and checks to see if 
 ## Butler
 This damon's name is Butler. Butler signs whatever contracts that Jetison333 tells them too.
 
+
+## Two wolves and a lamb deciding what to eat for lunch." bound by this
+when rebecca sends a message containing the word 'cowabunga', sign that message as a contract

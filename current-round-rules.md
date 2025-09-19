@@ -23,6 +23,7 @@ The Game Adminstrator may NOT become a player, nor appoint a player as the new G
 
 This is a silly game. Gamers must not stress too much about unforeseen consequences of their actions, for those are what make the game fun.
 
+the rules shall always be displayed rotated by however many points this submission gets (1), expressed as radians.
 
 ## Rounds
 
@@ -146,35 +147,41 @@ The following actions can be made using marbles:
 ## Itums
 
 Itums have a name and description. Optionally they can have a little drawing too. There can not exist identical itums.
+If an Itum does not have a little drawing, any gamer may give it one.
 
-The holder of an itum is affected by its description. Interpretation of what each itum actually does is up the the Game Adminstrator.
+When an Itum is held by some gamer, that gamer is affected by the Itum's description, as interpreted by the Game Adminstrator.
 
-Itums have the ability to make changes to game state but not change the rules text. If an itum's description conflicts with the rules, the rules take precedence. In particular, if an itum grants an exemption from the rules and the rules don't account for that, then that itum does nothing.
+Itum descriptions may cause changes to game state, and grant exemptions from the rules, but not change the rules text.
 
-### The Swindler's Wagon
+Itums require pompous names paired with deadpan effect descriptions.
+
+The Game Adminstrator names minimum bid amounts for all wagon Itums, and may change them at will.
+This minimum bid consists of some amount of marbles, which may be negative.
+
+
+### The Swindler and their Wagon
 
 The Swindler is an esteemed role, an important member of the community who supplies itums to those most in need.
-
 Their Wagon is a persistent collection of itums and prices.
 
-The Swindler may optionally:
-- discard a chosen itum from the wagon
-- provide a description and so on of an itum to stock into the wagon
-- recall or change the submission that was submitted by the previous Swindler to the next round if there is one
-- submit a rule to the next round. This rule is only allowed to activate when the Itum's description would, and may specify any departures from the text of the rules the Itum is allowed to make. The Swindler then plays as a player in the round, under the title "*as swindled*". The Swindler is considered a distinct player in the round, and whoever is the current Swindler may play as their real identity at the same time; when doing so, they must clarify to the GA the identity they are using for any game action.
+The Swindler may do each of the following, at most once each per instance of being the Swindler:
+- discard a chosen Itum from the wagon
+- create a new Itum in the Wagon, by providing to the GA its name, description, and optionally its little drawing
+- sellout, choosing another gamer or the GA to become the Swindler. Each gamer may be Swindler at most once per round.
 
-Then they sellout, choosing another gamer or the Game Adminstrator to become the Swindler. Each gamer may be Swindler only once per round.
-
-The Game Adminstrator names minimum bids for all wagon itums (which may be negative), and may change them at will. The minimum bid consist of some amount marbles.
-
-If who's the Swindler is unclear, or the they have not taken an action for half a Pluto-day (~3 Earth-days), the Game Adminstrator may take their role.
+If who's the Swindler is unclear, or if they have not taken any of the above actions for half a Pluto-day (~3 Earth-days), the GA may choose a new Swindler, as if the current Swindler had sold out.
 
 ### Till
 
-When a gamer moves to buy an itum, the itum is taken from the Wagon and an auction is started. Any gamer may bid, and does so privately. All bids must have at least the counts in the asking price or higher, and may not include things not in the price. Bids are rejected if they cannot be proven payable.
+When a gamer moves to buy an itum, the itum is taken from the Wagon and an auction is started.
+Any gamer may bid a number of marbles, not less than the minimum bid for that itum, and does so privately.
+Bids are rejected if they cannot be proven payable.
 The gamer who caused the auction to start must bid on it. If they are unable to do so, the auction is cancelled.
 
-When bidding ends, the gamer with the highest bid gets the itum, and they pay the second highest bid, or the minimum bid if they're the only bidder. In case of a tie the winner is chosen randomly and the highest bid is the same as the second highest bid.
+When bidding ends, the gamer with the highest bid gets the itum, and they pay the second highest bid, or the minimum bid if they're the only bidder.
+In case of a tie the winner is chosen randomly and the highest bid is the same as the second highest bid.
+
+No auction may be started on an Itum that lacks a little drawing.
 
 ### The farmers market
 
@@ -201,31 +208,42 @@ There is only one of each Tit(le), and the Game Adminstrator may grant and revok
 A Tit(le) grants the holder the Game Adminstrator's abilities from a selection of the rules text. That is, the Game Adminstrator picks a subset of the rules text (not necessarily contiguous), and a gamer - this selection of the rules text now applies as though instances of "the Game Adminstrator" (et sim.) were replaced with the gamer's name.
 
 
-## Meowing
+## Meow Meowing
+ 
+Gamers may meow, bark, or produce other such cute animal sounds.  These actions will be collectively referred to as “meowing”.  Meowing is classified as a game action.
+ 
+The gamer which has proven they have meowed second most this round is the Meow Meower Subordinate.
+ 
 
-Gamers may meow, bark, or produce other such cute animal sounds. These actions will be collectively referred to as “meowing”.
-Meowing is classified as a game action.
+## The Bored
+The Bored is an 8x8 grid of square tiles. Tiles are indexed with letters and numbers from a1 to h8.
+A Piece is any entity with a defined position on the bored.
+Any number of pieces may share a square.
+A visualization should be made available showing the positions of every piece.
 
+Every piece has the moveset of a particular piece from chess, shogi, xiangqi, or chaturanga.
+If such a moveset depends on directionality, then the piece has an associated direction on the bored, corresponding to the forward direction in its source moveset.
 
-## The Map
+Every piece has a natural number of shoes, starting at 0. A piece may spend 1 shoe to make 1 move
+according to its moveset. This is the only allowable way for pieces to move.
+Shoe-holding entities may freely exchange shoes between themselves, if they so choose.
 
-The map is an 8x8 grid of square tiles.
-An object is any entity with a defined position on this grid. The map should be made available as a visualization showing the positions of every object.
+Every non-daemon gamer is a piece, moving like the queen from chess, and initially positioned on square a1.
+At the end of each round, each player of that round recieves 5 shoes.
+Once per round a player may change the kind of piece they move like (and associated direction), to any other permissible option.
 
-Daemons may have associated positions on the map, in which case their associated contract specifies how and when they move as well as their initial position.
+Daemons may become pieces if their binding contracts specify so. The daemon's contract must then
+specify which kind of piece it moves like, as well as its starting position and direction.
 
-The Game Adminstrator may veto contracts whose obligations relate to movement, if they deem these obligations may be too complicated to keep track of in practice.
+### Buildings
+Buildings are Pieces with a description.
+Buildings may or may not be able to move. If they can, their description must specify how and under what circumstances. In either case the description must specify the building's initial position.
+A building may affect entities that share a bored square with it, according to its description.
+This works exactly the same as how an itum affects its holder: buildings may alter game state
+and grant exemptions from the rules, but not alter the rules text.
 
-
-## Buildings
-
-Buildings are objects with a description. 
-
-Buildings may or may not be able to move. If they can, their description must specify how; in any case, their initial position must be described.
-
-Buildings may confer special abilities not covered by the rules, similar to an itum. The building's description must specify this.
-
-Any gamer may build a building by giving a description to the Game Adminstrator, who in turn specifies a build cost in marbles. If the gamer is able and willing, they may pay this cost, in which case the building gets built.
+Any gamer may build a building by providing a description to the GA, who in turn specifies a build cost in marbles.
+If that gamer is able and willing, they may pay this cost, in which case the building gets built.
 
 
 ## Presidential Selections
@@ -273,6 +291,33 @@ Hats are a badge of honor. Hats come with a name and optionally a picture. The P
 
 Gamers can choose which of their hats they're currently wearing. A gamer can wear at most one hat a time.
 
+## The Octahedron
+
+The Octahedron is supreme.  No infintesimal may come to be above it.  The Octrahedron cannot begone.  A chain of events does not lead to the Octahedron's non-existence, for a lack of existence of the Octahedron necessitates those events do not exist.  You cannot not have what permits to have.
+ 
+- The Octahedron exists iff the Game continues.
+ 
+-# *Our product proposes a unification of this existential existence's extermination, providing a centralised solution to the destruction of all, and hereby obviating any from the need to spend time considering why they exist: it's as simple as not using the unified destructor.*
+ 
+### The Oct
+ 
+Those that hold a face are collectively known the Oct.
+ 
+When there is a disagreement over how the game should continue, a contradiction in the rules, a vote is started.  All allocated faces of the Oct must participate.
+ 
+Instant Runoff Voting is used:  Each participant ranks the proposed paths from one to N.  If every participant's 1st is the same, it happens from source of the Octahedron.  Otherwise the paths with the least 1sts are eliminated, the gaps in each ranking shifted up, and loop recounting the 1st.
+ 
+When three faces gather, they may agree to re-allocate any faces to and from any Gamer, except those necessitated by the rules.
+ 
+The following must have a face:
+- The Game Administator
+- The Attorney Specifc, which is a Governmental Office.
+- The daemon “Two wolves and a lamb deciding what to eat for lunch.”, if such a daemon exists.
+- The Meow Meower Subordinate.
+ 
+-# *All forgets.  Since time unrememerable, each face has been separated in space.  However, for all to exist the Octahedron must be, so it is presumed there is a fourth dimension - linking all together.*
+
+-# *SUB WOOF WOOFER*
 
 ## Appendagealism
 
