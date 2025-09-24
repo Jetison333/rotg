@@ -1,0 +1,35 @@
+name: Build Markdown to HTML on main
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write   # allows committing back to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # allows git push back to main
+
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Convert Markdown to HTML
+        run: |
+          mkdir -p docs
+          pandoc unoficial-current-round-rules.md -o docs/index.html --standalone 
+          sed -i 's#</head>#<style>body {transform: rotate(-57.3deg); margin-left: -6em;   margin-top: 30em; transform-origin: top left;}</style></head>#' docs/index.html
+
+      - name: Commit HTML back to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          git commit -m "Update generated HTML [skip ci]" || echo "No changes to commit"
+          git push origin main
