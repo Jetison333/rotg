@@ -37,13 +37,9 @@ soul jar  (0 marbles) — a beautifully ornamented glass jar packed full with ov
 
 magic crystal ball (2 marbles) — once per round you may ask the GA a vague question. they must answer using a single dixit card. the GA can refuse to answer your question if it's not vague enough, in which case you get to ask another one
 
-estrogen (3 marbles) — gain tit(le)s
-
 anger demon (2 marbles) — at any time you may destroy all of your other itums (except for this one)
 
 inner peace (2 marbles) — all actions that would result in you losing or gaining an itum fail, except for the following one: you may voluntarily destroy this itum at any time
-
-con artist (2 marbles) — you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once.
 
 bff pendant (0 marbles) — you may break this itum in half. upon doing so, give one of the halves to another person of your choosing
 
@@ -78,6 +74,13 @@ when a Bowl of Sherbert, Q, is used by some player, Alice, during a round, R, th
 3. Alice is given +2 points during R, which she may distribute among herself, other players, or other submissions, as she sees fit
 4. Q is taken from Alice and given to some random non-Alice player who participated in R
 5. Q may not be used again until after the end of R
+
+## Olive
+
+estrogen — gain tit(le)s
+
+con artist — you're a master of swindling. while you are the swindler you may perform the usual actions of a swindler twice instead of once.
+
 
 ## Destroyed (Museum)
 

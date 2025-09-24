@@ -6,8 +6,7 @@
 - Attorney Specifc: Susan
 
 ## Tit(le)s:
-- Satan:  rebecca
-  - Daemons section
+- Send in your application today!
 
 ## The oct
 - Game admin: Jetison333
@@ -28,9 +27,10 @@
   - dodecahedron
 
 ## Marbles:
+- Treasure: 2
 - essaie: 18
-- olive: 11
-- umnikos: 5
+- olive: 4
+- umnikos: 10
 - Jetison333: 4
 - Lyricly: 6
 - Makefile: 11

@@ -1,4 +1,4 @@
-This documents the GA's intepretations of the rules to encourage consistency between rulings, acting as a form of FAQ.
+This documents the GA's intepretations of the rules, and any oct rulings that are meant to set precedent. to encourage consistency between rulings, acting as a form of FAQ.
 
 As stated by:
 > The Game Adminstrator has the final word on all issues regarding the interpretation of the rules text and on issues for which the rules text does not specify a resolution.
@@ -33,8 +33,6 @@ If you have a good use-case or argument against an interpretation here, do sugge
     - which means *player obligations must be practically doable by the player* (death note-esque restrictions)
       - this is the only part of this section of rulings that makes sense
   - player obligations cannot involve an unknown/unspecified sequence of steps
-  - *contract conditions must be resolvable by the players involved*
-    - you've already said this
 - "I" is ambiguous and is interpreted by the GA
   - in a one-party contract it usually means the signer and not the author
 - Players cannot sign contracts that cannot be defined
