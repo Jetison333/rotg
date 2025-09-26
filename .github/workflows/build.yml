@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write   # allows committing back to main
@@ -24,7 +25,21 @@ jobs:
         run: | # These are the real margin values I promise
           mkdir -p docs
           pandoc unoficial-current-round-rules.md -o docs/index.html --standalone --metadata=title="Official Rules"
+
           sed -i 's#</head>#<style>body {transform: rotate(-57.3deg); margin-left: -6em;   margin-top: 30em; transform-origin: top left;}</style></head>#' docs/index.html 
+
+          sed -i '/<\/body>/i \
+          <script> \
+          function f() { \
+            document.body.style.transform = ` \
+            translate(${-Math.floor(window.pageYOffset) * 1.5574 * 2}px, \
+            ${-Math.floor(window.pageYOffset)}px) \
+            rotate(-57.3deg) \
+            `; \
+          } \
+          window.addEventListener("scroll", f); \
+          f(); \
+          </script>' docs/index.html
 
       - name: Commit HTML back to main
         run: |

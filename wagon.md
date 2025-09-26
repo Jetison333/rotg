@@ -31,9 +31,9 @@ Nest (2 marbles) —
 Put an egg in here to hatch it into a friend of species of your choice, keeping adjectives & details that apply to the egg.  Every "edible" thing you feed them they produce a marble.  You may put the nest on your head.
 Upon obtaining, your name is prefixed to the item, a copy of the item without your name is added to the wagon, and this sentance is removed from the description.
 
-Hat Stand — You may now buy and sell hats, with funds going to the treasury. Yay! Capitalism!
+Hat Stand (2 marbles) — You may now buy and sell hats, with funds going to the treasury. Yay! Capitalism!
 
-Rebound — Whever a marble is rolled to you, you may choose to create a new marble which is shot at the sender.
+Rebound (2 marbles) — Whever a marble is rolled to you, you may choose to create a new marble which is shot at the sender.
 
 *All proceeds from the sale of these items go to umnikos:*
 
