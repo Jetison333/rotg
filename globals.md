@@ -30,17 +30,16 @@
 - Treasure: 2
 - essaie: 18
 - olive: 4
-- umnikos: 10
-- Jetison333: 4
+- umnikos: 2
+- Jetison333: 0
 - Lyricly: 6
 - Makefile: 11
 - chirk: 5
 - rebecca: 3
-- *hyper-ring*: 24
   
 ## Chips:
-- Jetison333: 1597
-- umnikos: 2905
+- Jetison333: 1997
+- umnikos: 3705
 - rebecca: 98
 - Pyramid [æ]: 1
 
