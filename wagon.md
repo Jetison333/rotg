@@ -2,7 +2,7 @@
 
 ## *Currently Bidding*
 
-*nil*
+Bowser Revolution (2 marbles)
 
 ## *Wagon*
 
@@ -21,8 +21,6 @@ When Algremichal Blue enters your inventory and when you consume it, the GA roll
 
 Bowser Revolution (2 marbles) — Among people with nonzero marbles, marbles are uniformly distributed, rounding down.  Lost marbles cease to exist.  This distribution applies to every collectible, at the GA's discretion.
 
-Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
-
 The Wombat (2 marbles) — Following the next guessing phase in which you participate, if you did not make any guesses, gain marbles equal to one more than the number of people who guessed you correctly.
 
 Skip the Queue Pass (2 marbles) — Use at any point to skip a queue.  For example, instantly add to the Appendage or swindle up an item.
@@ -34,6 +32,9 @@ Upon obtaining, your name is prefixed to the item, a copy of the item without yo
 Hat Stand (2 marbles) — You may now buy and sell hats, with funds going to the treasury. Yay! Capitalism!
 
 Rebound (2 marbles) — Whever a marble is rolled to you, you may choose to create a new marble which is shot at the sender.
+
+![](img/voldemort.webp)
+You Know Who: You cannot be referred to by any gamer using your names, nicknames, or titles. Proceeds from the sale of this item go to umnikos.
 
 *All proceeds from the sale of these items go to umnikos:*
 
@@ -95,3 +96,5 @@ Upon the use of randomness, such as the rolling of dice, if some possibility wou
 Biden Blast — This itum can be used to cause a barrage of cosmic rays to strike the rules. Each bit that makes up the rules has a 75% chance to be flipped. This action consumes 21 marbles.
 
 hatter (1 marbles) — you may swap hats with a player of your choosing once per round
+
+Loathing (4 marbles) — You and a person of your choice are removed from history, except for the fact that history of your past actions persists.  That is, you loose all belongings, titles, unsign all contracts… but submissions and the alike remain.
