@@ -33,8 +33,9 @@ Hat Stand (2 marbles) — You may now buy and sell hats, with funds going to the
 
 Rebound (2 marbles) — Whever a marble is rolled to you, you may choose to create a new marble which is shot at the sender.
 
-![](img/voldemort.webp)
-You Know Who: You cannot be referred to by any gamer using your names, nicknames, or titles. Proceeds from the sale of this item go to umnikos.
+You Know Who: (1 marbles)  
+![](img/voldemort.webp)  
+You cannot be referred to by any gamer using your names, nicknames, or titles. Proceeds from the sale of this item go to umnikos.
 
 *All proceeds from the sale of these items go to umnikos:*
 
