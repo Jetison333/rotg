@@ -30,7 +30,7 @@
 - Treasure: 2
 - essaie: 18
 - olive: 4
-- umnikos: 2
+- umnikos: 0
 - Jetison333: 0
 - Lyricly: 6
 - Makefile: 11
@@ -39,7 +39,7 @@
   
 ## Chips:
 - Jetison333: 1997
-- umnikos: 3705
+- umnikos: 3905
 - rebecca: 98
 - Pyramid [æ]: 1
 
