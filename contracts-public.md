@@ -44,11 +44,6 @@ https://discord.com/channels/1320411924323893318/1346807889712386089/13827187794
 - rebecca
 - essaie
 
-## Warning: Moon
-https://discord.com/channels/1320411924323893318/1346807889712386089/1383953890549960754
-> whenever drawing, if the moon is not in the deck nor the discard, I say to myself "warning: moon". this contract lasts forever and can be unsigned at any time
-- umnikos
-
 ## Rebecca's Presidential Contract
 *(expires once Rebecca is no longer President)*
 > If I am elected president, I will give every player this round 1 (one) marble.

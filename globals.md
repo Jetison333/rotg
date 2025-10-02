@@ -23,23 +23,24 @@
   - red square
 - umnikos
   - 1,000 marbles
+  - good treasurer award
 - jetison
   - dodecahedron
 
 ## Marbles:
-- Treasure: 2
+- Treasure: 0
 - essaie: 18
-- olive: 4
+- olive: 2
 - umnikos: 0
 - Jetison333: 0
 - Lyricly: 6
-- Makefile: 11
+- Makefile: 12
 - chirk: 5
-- rebecca: 3
+- rebecca: 4
   
 ## Chips:
-- Jetison333: 1997
-- umnikos: 3905
+- Jetison333: 2097
+- umnikos: 4005
 - rebecca: 98
 - Pyramid [æ]: 1
 

@@ -2,8 +2,6 @@
 
 ## *Currently Bidding*
 
-Bowser Revolution (2 marbles)
-
 ## *Wagon*
 
 Tax Rebate (1 marble) — you don't have to pay any taxes during this round
