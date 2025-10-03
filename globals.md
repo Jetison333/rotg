@@ -36,7 +36,7 @@
 - Lyricly: 6
 - Makefile: 12
 - chirk: 5
-- rebecca: 4
+- rebecca: 2
   
 ## Chips:
 - Jetison333: 2097

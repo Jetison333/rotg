@@ -32,8 +32,8 @@ jobs:
           <script> \
           function f() { \
             document.body.style.transform = ` \
-            translate(${-Math.floor(window.pageYOffset) * 1.5574 * 2}px, \
-            ${-Math.floor(window.pageYOffset)}px) \
+            translate(${-window.pageYOffset * 1.5574}px, \
+            ${-window.pageXOffset / 1.5574}px) \
             rotate(-57.3deg) \
             `; \
           } \

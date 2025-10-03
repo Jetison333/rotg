@@ -165,9 +165,9 @@ The Swindler is an esteemed role, an important member of the community who suppl
 Their Wagon is a persistent collection of itums and prices.
 
 The Swindler may do each of the following, at most once each per instance of being the Swindler:
-- discard a chosen Itum from the wagon
-- create a new Itum in the Wagon, by providing to the GA its name, description, and optionally its little drawing
-- sellout, choosing another gamer or the GA to become the Swindler. Each gamer may be Swindler at most once per round.
+- discard a chosen Itum from the wagon  
+- create a new Itum in the Wagon, by providing to the GA its name, description, and optionally its little drawing  
+- sellout, choosing another gamer or the GA to become the Swindler. Each gamer may be Swindler at most once per round.  
 
 If who's the Swindler is unclear, or if they have not taken any of the above actions for half a Pluto-day (~3 Earth-days), the GA may choose a new Swindler, as if the current Swindler had sold out.
 
