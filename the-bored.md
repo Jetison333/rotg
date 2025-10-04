@@ -3,14 +3,14 @@
 |1|AG||||||||
 |2|||||||||
 |3|||||||||
-|4|||||GC||||
+|4|||||GC, OL||||
 |5|||||||||
 |6||||||RC|||
 |7||||||||RB, T0|
 |8|||||||||
 
 - Makefile (queen) - 5 shoes  
-- olive (queen) - 5 shoes  
+- olive (queen) (OL)- 5 shoes  
 - rebecca (queen) (RB) - 2 shoes, 1 seed  
 
 - AG: all gamers  
